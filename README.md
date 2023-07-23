@@ -1,6 +1,5 @@
 This repo contains a list of action identifiers (found in plist files) and their respective actions in the Apple Shortcuts app (formerly Workflow).
 
-	{
   "Native": {
     "openapp": "Open App",
     "choosefrommenu": "Choose from Menu",
@@ -850,4 +849,3 @@ This repo contains a list of action identifiers (found in plist files) and their
       "apple.AccessibilityUtilities.AXSettingsShortcuts.AXStartSpeakScreenIntent": "Start Speak Screen"
     }
   }
-}
