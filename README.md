@@ -1,6 +1,7 @@
 This repo contains a list of action identifiers (found in plist files) and their respective actions in the Apple Shortcuts app (formerly Workflow).
 
 {
+  
   "Native": {
   
     "openapp": "Open App",
