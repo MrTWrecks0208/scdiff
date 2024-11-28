@@ -1,7 +1,6 @@
 This repo contains a list of action identifiers (found in plist files) and their respective actions in the Apple Shortcuts app (formerly Workflow).
 
 {
-
   "Native": {
   
     "openapp": "Open App",
@@ -272,19 +271,19 @@ This repo contains a list of action identifiers (found in plist files) and their
   "Third-Party Apps": {
   
     "Tweetbot": {
-      "tapbots.Tweetbot6.PTHTweetbotOpenTwitterURLIntent": "Open Twitter (Tweetbot)",
+      "tapbots.Tweetbot6.PTHTweetbotOpenTwitterURLIntent": "Open Twitter",
 
       "tapbots.Tweetbot6.PTHTweetbotOpenIntent": "Open Tweetbot",
 
-      "tapbots.Tweetbot6.PTHTweetbotPostTweetIntent": "Post Tweet (Tweetbot)",
+      "tapbots.Tweetbot6.PTHTweetbotPostTweetIntent": "Post Tweet",
 
-      "tapbots.Tweetbot.searchtext": "Search Text (Tweetbot)",
+      "tapbots.Tweetbot.searchtext": "Search Text",
 
-      "tapbots.Tweetbot.opentweetbot": "Open Tweetbot (Tweetbot)",
+      "tapbots.Tweetbot.opentweetbot": "Open Tweetbot",
 
-      "tapbots.Tweetbot.tweet": "Tweet (Tweetbot)",
+      "tapbots.Tweetbot.tweet": "Tweet",
 
-      "tapbots.Tweetbot.viewprofile": "View Profile (Tweetbot)"
+      "tapbots.Tweetbot.viewprofile": "View Profile"
     },
 
     "Pocket": {
@@ -292,269 +291,269 @@ This repo contains a list of action identifiers (found in plist files) and their
     },
 
     "Apple Pay": {
-      "venmo.request": "Request Payment (Venmo)",
+      "venmo.request": "Request Payment",
 
-      "venmo.pay": "Send Payment (Venmo)"
+      "venmo.pay": "Send Payment"
     },
 
     "Venmo": {
-      "kortina.labs.Venmo": "Send/Request Payment (Venmo)"
+      "kortina.labs.Venmo": "Send/Request Payment"
     },
 
     "GitHub": {
-      "github.stormbreaker.prod.DispatchWorkflowIntent": "Dispatch Workflow (GitHub)"
+      "github.stormbreaker.prod.DispatchWorkflowIntent": "Dispatch Workflow"
     },
 
     "Data Jar": {
-      "dk.simonbs.DataJar.InsertValueInArrayIntent": "Add to Data Jar (Data Jar)",
+      "dk.simonbs.DataJar.InsertValueInArrayIntent": "Add to Data Jar",
 
-      "dk.simonbs.DataJar.CheckIfValueExistsIntent": "Check if Value Exists (Data Jar)",
+      "dk.simonbs.DataJar.CheckIfValueExistsIntent": "Check if Value Exists",
 
-      "dk.simonbs.DataJar.GetChildCountIntent": "Count Values (Data Jar)",
+      "dk.simonbs.DataJar.GetChildCountIntent": "Count Values",
 
-      "dk.simonbs.DataJar.DeleteValueIntent": "Delete Value (Data Jar)",
+      "dk.simonbs.DataJar.DeleteValueIntent": "Delete Value",
 
-      "dk.simonbs.DataJar.GetKeysIntent": "Get Keys (Data Jar)",
+      "dk.simonbs.DataJar.GetKeysIntent": "Get Keys",
 
-      "dk.simonbs.DataJar.GetTypeOfValueIntent": "Get Type of Value (Data Jar)",
+      "dk.simonbs.DataJar.GetTypeOfValueIntent": "Get Type of Value",
 
-      "dk.simonbs.DataJar.GetValueIntent": "Get Value (Data Jar)",
+      "dk.simonbs.DataJar.GetValueIntent": "Get Value",
 
-      "dk.simonbs.DataJar.SetValueIntent": "Set Value (Data Jar)",
+      "dk.simonbs.DataJar.SetValueIntent": "Set Value",
 
-      "dk.simonbs.DataJar.ViewValueIntent": "View Value (Data Jar)"
+      "dk.simonbs.DataJar.ViewValueIntent": "View Value"
     },
 
     "Jayson": {
-      "dk.simonbs.Jayson.GetFileIntent": "Get File (Jayson)",
+      "dk.simonbs.Jayson.GetFileIntent": "Get File",
 
-      "dk.simonbs.Jayson.PrettifyJSONIntent": "Prettify JSON (Jayson)",
+      "dk.simonbs.Jayson.PrettifyJSONIntent": "Prettify JSON",
 
-      "dk.simonbs.Jayson.ViewJSONIntent": "View JSON (Jayson)"
+      "dk.simonbs.Jayson.ViewJSONIntent": "View JSON"
     },
 
     "Scriptable": {
-      "dk.simonbs.Scriptable.CreateFileBookmarkIntent": "Create File Bookmark (Scriptable)",
+      "dk.simonbs.Scriptable.CreateFileBookmarkIntent": "Create File Bookmark",
 
-      "dk.simonbs.Scriptable.RefreshAllWidgetsIntent": "Refresh All Widgets (Scriptable)",
+      "dk.simonbs.Scriptable.RefreshAllWidgetsIntent": "Refresh All Widget",
 
-      "dk.simonbs.Scriptable.RunScriptInlineIntent": "Run Inline Script (Scriptable)",
+      "dk.simonbs.Scriptable.RunScriptInlineIntent": "Run Inline Script",
 
-      "dk.simonbs.Scriptable.ParameterizedRunScriptIntent": "Run Script (Scriptable)"
+      "dk.simonbs.Scriptable.ParameterizedRunScriptIntent": "Run Script"
     },
 
     "Toolbox Pro": {
-      "alexhay.ToolboxProForShortcuts.AddTracksToPlaylistIntent": "Add Tracks To Playlist (Toolbox Pro)",
+      "alexhay.ToolboxProForShortcuts.AddTracksToPlaylistIntent": "Add Tracks To Playlist",
 
-      "alexhay.ToolboxProForShortcuts.AddContactGroupIntent": "Add Contact (Toolbox Pro)",
+      "alexhay.ToolboxProForShortcuts.AddContactGroupIntent": "Add Contact",
 
-      "alexhay.ToolboxProForShortcuts.AuthenticateIntent": "Authenticate (Toolbox Pro)",
+      "alexhay.ToolboxProForShortcuts.AuthenticateIntent": "Authenticate",
 
-      "alexhay.ToolboxProForShortcuts.BlurImagesIntent": "Blur Image (Toolbox Pro)",
+      "alexhay.ToolboxProForShortcuts.BlurImagesIntent": "Blur Image",
 
-      "alexhay.ToolboxProForShortcuts.BookmarkFileIntent": "Bookmark File (Toolbox Pro)",
+      "alexhay.ToolboxProForShortcuts.BookmarkFileIntent": "Bookmark File",
 
-      "alexhay.ToolboxProForShortcuts.BuildURLIntent": "Build URL (Toolbox Pro)",
+      "alexhay.ToolboxProForShortcuts.BuildURLIntent": "Build URL",
 
-      "alexhay.ToolboxProForShortcuts.CalculateWithSoulverIntent": "Calculate With Soulver (Toolbox Pro)",
+      "alexhay.ToolboxProForShortcuts.CalculateWithSoulverIntent": "Calculate With Soulver",
 
-      "alexhay.ToolboxProForShortcuts.CheckIfInstalledIntent": "Check If App Is Installed (Toolbox Pro)",
+      "alexhay.ToolboxProForShortcuts.CheckIfInstalledIntent": "Check If App Is Installed",
 
-      "alexhay.ToolboxProForShortcuts.CheckGVIntent": "Check If Global Variable Exists (Toolbox Pro)",
+      "alexhay.ToolboxProForShortcuts.CheckGVIntent": "Check If Global Variable Exists",
 
-      "alexhay.ToolboxProForShortcuts.CheckForUpdatesIntent": "Check RoutineHub For Updates (Toolbox Pro)",
+      "alexhay.ToolboxProForShortcuts.CheckForUpdatesIntent": "Check RoutineHub For Updates",
 
-      "alexhay.ToolboxProForShortcuts.ConvertCurrencyIntent": "Convert Currency (Toolbox Pro)",
+      "alexhay.ToolboxProForShortcuts.ConvertCurrencyIntent": "Convert Currency",
 
-      "alexhay.ToolboxProForShortcuts.CreateCalendarIntent": "Create Calendar (Toolbox Pro)",
+      "alexhay.ToolboxProForShortcuts.CreateCalendarIntent": "Create Calendar",
 
-      "alexhay.ToolboxProForShortcuts.CreateEventIntent": "Create Calendar Event (Toolbox Pro)",
+      "alexhay.ToolboxProForShortcuts.CreateEventIntent": "Create Calendar Event",
 
-      "alexhay.ToolboxProForShortcuts.CreateFoldersIntent": "Create Folders (Toolbox Pro)",
+      "alexhay.ToolboxProForShortcuts.CreateFoldersIntent": "Create Folders",
 
-      "alexhay.ToolboxProForShortcuts.CreateIconIntent": "Create Icon (Toolbox Pro)",
+      "alexhay.ToolboxProForShortcuts.CreateIconIntent": "Create Icon",
 
-      "alexhay.ToolboxProForShortcuts.CreateTextImageIntent": "Create Image From Text (Toolbox Pro)",
+      "alexhay.ToolboxProForShortcuts.CreateTextImageIntent": "Create Image From Text",
 
-      "alexhay.ToolboxProForShortcuts.CreateInterestHeatMapsIntent": "Create Interest Heatmaps (Toolbox Pro)",
+      "alexhay.ToolboxProForShortcuts.CreateInterestHeatMapsIntent": "Create Interest Heatmaps",
 
-      "alexhay.ToolboxProForShortcuts.CreateMenuIntent": "Create Menu (Toolbox Pro)",
+      "alexhay.ToolboxProForShortcuts.CreateMenuIntent": "Create Menu",
 
-      "alexhay.ToolboxProForShortcuts.CreatePlaylistIntent": "Create Playlist (Toolbox Pro)"
+      "alexhay.ToolboxProForShortcuts.CreatePlaylistIntent": "Create Playlist"
     },
 
     "Working Copy": {
-      "appliedphasor.working-copy.CheckoutBranchIntent": "Checkout Branch (Working Copy)",
+      "appliedphasor.working-copy.CheckoutBranchIntent": "Checkout Branch",
 
-      "appliedphasor.working-copy.CloneRepositoryIntent": "Clone Repository (Working Copy)",
+      "appliedphasor.working-copy.CloneRepositoryIntent": "Clone Repository",
 
-      "appliedphasor.working-copy.CommitRepositoryIntent": "Commit Repository (Working Copy)",
+      "appliedphasor.working-copy.CommitRepositoryIntent": "Commit Repository",
 
-      "appliedphasor.working-copy.CreateBranchIntent": "Create Branch (Working Copy)",
+      "appliedphasor.working-copy.CreateBranchIntent": "Create Branch",
 
-      "appliedphasor.working-copy.OpenPullRequestIntent": "Create Pull Request (Working Copy)",
+      "appliedphasor.working-copy.OpenPullRequestIntent": "Create Pull Request",
 
-      "appliedphasor.working-copy.DeleteBranchIntent": "Delete Branch (Working Copy)",
+      "appliedphasor.working-copy.DeleteBranchIntent": "Delete Branch",
 
-      "appliedphasor.working-copy.FileDetailsIntent": "Details of Repository Files (Working Copy)",
+      "appliedphasor.working-copy.FileDetailsIntent": "Details of Repository Files",
 
-      "appliedphasor.working-copy.FetchRepositoryIntent": "Fetch Repository (Working Copy)",
+      "appliedphasor.working-copy.FetchRepositoryIntent": "Fetch Repository",
 
-      "appliedphasor.working-copy.GetFilesIntent": "Get Repository Files (Working Copy)",
+      "appliedphasor.working-copy.GetFilesIntent": "Get Repository Files",
 
-      "appliedphasor.working-copy.ListRepositoriesIntent": "List Repositories (Working Copy)",
+      "appliedphasor.working-copy.ListRepositoriesIntent": "List Repositories",
 
-      "appliedphasor.working-copy.MergeBranchIntent": "Merge Branch (Working Copy)",
+      "appliedphasor.working-copy.MergeBranchIntent": "Merge Branch",
 
-      "appliedphasor.working-copy.OpenIntent": "Open in Working Copy (Working Copy)",
+      "appliedphasor.working-copy.OpenIntent": "Open in Working Copy",
 
-      "appliedphasor.working-copy.PullRepositoryIntent": "Pull Repository (Working Copy)",
+      "appliedphasor.working-copy.PullRepositoryIntent": "Pull Repository",
 
-      "appliedphasor.working-copy.PushRepositoryIntent": "Push Repository (Working Copy)",
+      "appliedphasor.working-copy.PushRepositoryIntent": "Push Repository",
 
-      "appliedphasor.working-copy.CommitLogIntent": "Repository History (Working Copy)",
+      "appliedphasor.working-copy.CommitLogIntent": "Repository History",
 
-      "appliedphasor.working-copy.ListReferencesIntent": "Repository References (Working Copy)",
+      "appliedphasor.working-copy.ListReferencesIntent": "Repository References",
 
-      "appliedphasor.working-copy.StageFilesIntent": "Stage for Commit (Working Copy)",
+      "appliedphasor.working-copy.StageFilesIntent": "Stage for Commit",
 
-      "appliedphasor.working-copy.WebDAVIntent": "Toggle WebDAV Server (Working Copy)",
+      "appliedphasor.working-copy.WebDAVIntent": "Toggle WebDAV Server",
 
-      "appliedphasor.working-copy.WriteFileIntent": "Write Repository File (Working Copy)"
+      "appliedphasor.working-copy.WriteFileIntent": "Write Repository File"
     },
 
     "Jellycuts": {
-      "zlineman.Jellyfish.GrabJellycutIntent": "Grab Jellycut (Jellycuts)",
+      "zlineman.Jellyfish.GrabJellycutIntent": "Grab Jellycut",
 
-      "zlineman.Jellyfish.ImportObjectsIntent": "Import Objects (Jellycuts)",
+      "zlineman.Jellyfish.ImportObjectsIntent": "Import Objects",
 
-      "zlineman.Jellyfish.ImportShortcutIntent": "Import Shortcut (Jellycuts)"
+      "zlineman.Jellyfish.ImportShortcutIntent": "Import Shortcut"
     },
 
     "Otter": {
-      "aisense.otter.CommentIntent": "Comment (Otter)",
+      "aisense.otter.CommentIntent": "Comment",
 
-      "aisense.otter.HighlightIntent": "Highlight (Otter)",
+      "aisense.otter.HighlightIntent": "Highlight",
 
-      "aisense.otter.RecordStartParameterizedIntent": "Start Recording (Otter)",
+      "aisense.otter.RecordStartParameterizedIntent": "Start Recording",
 
-      "aisense.otter.RecordStopIntent": "Stop Recording (Otter)"
+      "aisense.otter.RecordStopIntent": "Stop Recording"
     },
 
     "ProtonMail": {
-      "ch.protonmail.WipeMainKeyIntent": "Wipe Local Data (ProtonMail)"
+      "ch.protonmail.WipeMainKeyIntent": "Wipe Local Data"
     },
 
     "GizmoPack": {
-      "ke.bou.GizmoPack.AddWalletPassIntent": "Add Wallet Pass (GizmoPack)",
+      "ke.bou.GizmoPack.AddWalletPassIntent": "Add Wallet Pass",
 
-      "ke.bou.GizmoPack.CombineListsIntent": "Combine Lists (GizmoPack)",
+      "ke.bou.GizmoPack.CombineListsIntent": "Combine Lists",
 
-      "ke.bou.GizmoPack.CreateWalletPassIntent": "Create Wallet Pass (GizmoPack)",
+      "ke.bou.GizmoPack.CreateWalletPassIntent": "Create Wallet Pass",
 
-      "ke.bou.GizmoPack.FileInfoIntent": "File Info (GizmoPack)",
+      "ke.bou.GizmoPack.FileInfoIntent": "File Info",
 
-      "ke.bou.GizmoPack.FilterDictionariesIntent": "Filter Dictionaries (GizmoPack)",
+      "ke.bou.GizmoPack.FilterDictionariesIntent": "Filter Dictionaries",
 
-      "ke.bou.GizmoPack.FuzzyFinderIntent": "Fuzzy Finder (GizmoPack)",
+      "ke.bou.GizmoPack.FuzzyFinderIntent": "Fuzzy Finder",
 
-      "ke.bou.GizmoPack.GenerateCSVIntent": "Generate CSV (GizmoPack)",
+      "ke.bou.GizmoPack.GenerateCSVIntent": "Generate CSV",
 
-      "ke.bou.GizmoPack.HashDataIntent": "Generate Hash (Extended) (GizmoPack)",
+      "ke.bou.GizmoPack.HashDataIntent": "Generate Hash (Extended)",
 
-      "ke.bou.GizmoPack.EncodeHexIntent": "Encode Hex (GizmoPack)",
+      "ke.bou.GizmoPack.EncodeHexIntent": "Encode Hex",
 
-      "ke.bou.GizmoPack.EncodePlistIntent": "Encode Property List (GizmoPack)",
+      "ke.bou.GizmoPack.EncodePlistIntent": "Encode Property List",
 
-      "ke.bou.GizmoPack.OverwriteFileIntent": "Overwrite File (GizmoPack)",
+      "ke.bou.GizmoPack.OverwriteFileIntent": "Overwrite File",
 
-      "ke.bou.GizmoPack.ParseCSVIntent": "Parse CSV (GizmoPack)",
+      "ke.bou.GizmoPack.ParseCSVIntent": "Parse CSV",
 
-      "ke.bou.GizmoPack.ParseDateIntent": "Parse Date (GizmoPack)",
+      "ke.bou.GizmoPack.ParseDateIntent": "Parse Date",
 
-      "ke.bou.GizmoPack.QueryJSONIntent": "Query JSON with JSONPath/jq (GizmoPack)",
+      "ke.bou.GizmoPack.QueryJSONIntent": "Query JSON with JSONPath/jq",
 
-      "ke.bou.GizmoPack.QueryRecordsIntent": "Query CSV/Dictionaries with SQL (GizmoPack)",
+      "ke.bou.GizmoPack.QueryRecordsIntent": "Query CSV/Dictionaries with SQL",
 
-      "ke.bou.GizmoPack.RandomDataIntent": "Random Data (GizmoPack)",
+      "ke.bou.GizmoPack.RandomDataIntent": "Random Data",
 
-      "ke.bou.GizmoPack.QueryDocumentIntent": "Scrape HTML/XML with CSS/XPath (GizmoPack)",
+      "ke.bou.GizmoPack.QueryDocumentIntent": "Scrape HTML/XML with CSS/XPath",
 
-      "ke.bou.GizmoPack.ShortcutMetadataIntent": "Shortcut Metadata (GizmoPack)",
+      "ke.bou.GizmoPack.ShortcutMetadataIntent": "Shortcut Metadata",
 
-      "ke.bou.GizmoPack.SignJWTIntent": "Sign JSON Web Token (GizmoPack)",
+      "ke.bou.GizmoPack.SignJWTIntent": "Sign JSON Web Token",
 
-      "ke.bou.GizmoPack.SnapshotMapIntent": "Snapshot Map (GizmoPack)",
+      "ke.bou.GizmoPack.SnapshotMapIntent": "Snapshot Map",
 
-      "ke.bou.GizmoPack.TrimFileIntent": "Trim File (GizmoPack)",
+      "ke.bou.GizmoPack.TrimFileIntent": "Trim File",
 
-      "ke.bou.GizmoPack.UniversalVariablesIntent": "Universal Variables (GizmoPack)"
+      "ke.bou.GizmoPack.UniversalVariablesIntent": "Universal Variables"
     },
 
     "ShortWeb": {
-      "ch.ada.ShortWeb.GetResultIntent": "Get Automation Output (ShortWeb)",
+      "ch.ada.ShortWeb.GetResultIntent": "Get Automation Output",
 
-      "ch.ada.ShortWeb.RunAutomationIntent": "Run Automation (ShortWeb)"
+      "ch.ada.ShortWeb.RunAutomationIntent": "Run Automation"
     },
 
     "Fantastical": {
-      "flexibits.fantastical2.addreminder": "Add Reminder (Fantastical)",
+      "flexibits.fantastical2.addreminder": "Add Reminder",
 
       "flexibits.fantastical2.showinfantastical": "Show in Fantastical",
 
-      "flexibits.fantastical2.addevent": "Add Event (Fantastical)",
+      "flexibits.fantastical2.addevent": "Add Event",
 
-      "flexibits.fantastical2.iphone.FKRChangeCalendarSetIntent": "Change Calendar Set (Fatastical)",
+      "flexibits.fantastical2.iphone.FKRChangeCalendarSetIntent": "Change Calendar Set",
 
-      "flexibits.fantastical2.iphone.FKRChangeCalendarViewInten": "Change View (Fantastical)",
+      "flexibits.fantastical2.iphone.FKRChangeCalendarViewInten": "Change View",
 
-      "flexibits.fantastical2.iphone.FKRCreateFromInputIntent": "Create From Input (Fantastical)",
+      "flexibits.fantastical2.iphone.FKRCreateFromInputIntent": "Create From Input",
 
-      "flexibits.fantastical2.iphone.FKRGetAttendeesFromEventIntent": "Get Invitees From Event (Fantastical)",
+      "flexibits.fantastical2.iphone.FKRGetAttendeesFromEventIntent": "Get Invitees From Event",
 
-      "flexibits.fantastical2.iphone.FKROpenOnDateIntent": "Open On Date (Fantastical)",
+      "flexibits.fantastical2.iphone.FKROpenOnDateIntent": "Open On Date",
 
-      "flexibits.fantastical2.iphone.FKROverdueRemindersIntent": "Overdue Reminders (Fantastical)",
+      "flexibits.fantastical2.iphone.FKROverdueRemindersIntent": "Overdue Reminders",
 
-      "flexibits.fantastical2.iphone.FKRShowCalendarIntent": "Show Calendar (Fantastical)",
+      "flexibits.fantastical2.iphone.FKRShowCalendarIntent": "Show Calendar",
 
-      "flexibits.fantastical2.iphone.FKRShowListIntent": "Show List (Fantastical)",
+      "flexibits.fantastical2.iphone.FKRShowListIntent": "Show List",
 
-      "flexibits.fantastical2.iphone.FKRShowScheduleIntent": "Show Schedule (Fantastical)",
+      "flexibits.fantastical2.iphone.FKRShowScheduleIntent": "Show Schedule",
 
-      "flexibits.fantastical2.iphone.FKRUpcomingCalendarItemIntent": "Upcoming Item (Fantastical)"
+      "flexibits.fantastical2.iphone.FKRUpcomingCalendarItemIntent": "Upcoming Item"
     },
 
     "Day One": {
-      "bloombuilt.dayone-ios.AnswerDailyPromptIntent": "Answer Daily Prompt (Day One)",
+      "bloombuilt.dayone-ios.AnswerDailyPromptIntent": "Answer Daily Prompt",
 
-      "bloombuilt.dayone-ios.AppendToEntryIntent": "Append to Entry (Day One)",
+      "bloombuilt.dayone-ios.AppendToEntryIntent": "Append to Entry",
 
-      "dayonelog.dayoneiphone.post": "Create Day One Entry (Day One)",
+      "dayonelog.dayoneiphone.post": "Create Day One Entry",
 
-      "bloombuilt.dayone-ios.CreateEntryIntent": "Create Entry (Day One)",
+      "bloombuilt.dayone-ios.CreateEntryIntent": "Create Entry",
 
-      "bloombuilt.dayone-ios.CreateTemplateEntryIntent": "Create Template Entry (Day One)",
+      "bloombuilt.dayone-ios.CreateTemplateEntryIntent": "Create Template Entry",
 
-      "bloombuilt.dayone-ios.EditEntryIntent": "Edit Entry (Day One)",
+      "bloombuilt.dayone-ios.EditEntryIntent": "Edit Entry",
 
-      "bloombuilt.dayone-ios.FindEntriesIntent": "Find Entries (Day One)",
+      "bloombuilt.dayone-ios.FindEntriesIntent": "Find Entries",
 
-      "bloombuilt.dayone-ios.GetDailyPromptIntent": "Get Daily Prompt (Day One)",
+      "bloombuilt.dayone-ios.GetDailyPromptIntent": "Get Daily Prompt",
 
-      "bloombuilt.dayone-ios.RecordIntent": "Record (Day One)",
+      "bloombuilt.dayone-ios.RecordIntent": "Record",
 
-      "bloombuilt.dayone-ios.ShowTodayIntent": "Show Day Summary (Day One)",
+      "bloombuilt.dayone-ios.ShowTodayIntent": "Show Day Summary",
 
-      "bloombuilt.dayone-ios.ShowEntriesIntent": "Show Entries (Day One)",
+      "bloombuilt.dayone-ios.ShowEntriesIntent": "Show Entries",
 
-      "bloombuilt.dayone-ios.ShowDayIntent": "Show On This Day (Day One)"
+      "bloombuilt.dayone-ios.ShowDayIntent": "Show On This Day"
     },
 
     "Tally": {
-      "agiletortoise.Tally2.get": "Get Tally (Tally)",
+      "agiletortoise.Tally2.get": "Get Tally",
 
-      "agiletortoise.Tally2.updatetally": "Update Tally (Tally)"
+      "agiletortoise.Tally2.updatetally": "Update Tally"
     },
 
     "Uber": {
@@ -602,534 +601,534 @@ This repo contains a list of action identifiers (found in plist files) and their
     },
 
     "Charty": {
-      "brogrammers.charty.AccumulateValuesIntent": "Accumulate Values (Charty)",
+      "brogrammers.charty.AccumulateValuesIntent": "Accumulate Values",
 
-      "brogrammers.charty..AddAverageIntent": "Add Average (Charty)",
+      "brogrammers.charty..AddAverageIntent": "Add Average",
 
-      "brogrammers.charty.AddCustomThemeIntent": "Add Custom Theme (Charty)",
+      "brogrammers.charty.AddCustomThemeIntent": "Add Custom Theme",
 
-      "brogrammers.charty.AddMovingAverageIntent": "Add Moving Average (Charty)",
+      "brogrammers.charty.AddMovingAverageIntent": "Add Moving Average",
 
-      "brogrammers.charty.AddSeriesFromCSVIntent": "Add Series from CSV (Charty)",
+      "brogrammers.charty.AddSeriesFromCSVIntent": "Add Series from CSV",
 
-      "brogrammers.charty.AddSeriesToChartIntent": "Add Series To Chart (Charty)",
+      "brogrammers.charty.AddSeriesToChartIntent": "Add Series To Chart",
 
-      "brogrammers.charty.ApplyQuickStyleIntent": "Apply Quick Style (Charty)",
+      "brogrammers.charty.ApplyQuickStyleIntent": "Apply Quick Style",
 
-      "brogrammers.charty.CopyChartToClipboardIntent": "Copy Chart To Clipboard (Charty)",
+      "brogrammers.charty.CopyChartToClipboardIntent": "Copy Chart To Clipboard",
 
-      "brogrammers.charty.DeleteChartIntent": "Delete Chart (Charty)",
+      "brogrammers.charty.DeleteChartIntent": "Delete Chart",
 
-      "brogrammers.charty.DeleteSeriesIntent": "Delete Series (Charty)",
+      "brogrammers.charty.DeleteSeriesIntent": "Delete Series",
 
-      "brogrammers.charty.ExportChartAsImageIntent": "Export Chart As Image (Charty)",
+      "brogrammers.charty.ExportChartAsImageIntent": "Export Chart As Image",
 
-      "brogrammers.charty.FilterDataIntent": "Filter Data (Charty)",
+      "brogrammers.charty.FilterDataIntent": "Filter Data",
 
-      "brogrammers.charty.GetInfoAllChartsIntent": "Get Information From All Charts (Charty)",
+      "brogrammers.charty.GetInfoAllChartsIntent": "Get Information From All Charts",
 
-      "brogrammers.charty.GroupDataIntent": "Group Data (Charty)",
+      "brogrammers.charty.GroupDataIntent": "Group Data",
 
-      "brogrammers.charty.NewChartIntent": "New Chart (Charty)",
+      "brogrammers.charty.NewChartIntent": "New Chart",
 
-      "com.brogrammers.charty.NewChartWithSeriesIntent": "New Chart With Series (Charty)",
+      "com.brogrammers.charty.NewChartWithSeriesIntent": "New Chart With Series",
 
-      "brogrammers.charty.StyleAxisIntent": "Style Axis (Charty)",
+      "brogrammers.charty.StyleAxisIntent": "Style Axis",
 
-      "brogrammers.charty.StyleBarSeriesIntent": "Style Bar Series (Charty)",
+      "brogrammers.charty.StyleBarSeriesIntent": "Style Bar Series",
 
-      "brogrammers.charty.StyleChartIntent": "Style Chart (Charty)",
+      "brogrammers.charty.StyleChartIntent": "Style Chart",
 
-      "brogrammers.charty.StyleDonutPieSeriesIntent": "Style Donut/Pie Series (Charty)",
+      "brogrammers.charty.StyleDonutPieSeriesIntent": "Style Donut/Pie Series",
 
-      "brogrammers.charty.StyleLineSeriesIntent": "Style Line Series (Charty)",
+      "brogrammers.charty.StyleLineSeriesIntent": "Style Line Series",
 
-      "brogrammers.charty.StyleRingSeriesIntent": "Style Ring Series (Charty)",
+      "brogrammers.charty.StyleRingSeriesIntent": "Style Ring Series",
 
-      "brogrammers.charty.StyleScatterSeriesIntent": "Style Scatter Series (Charty)",
+      "brogrammers.charty.StyleScatterSeriesIntent": "Style Scatter Series",
 
-      "brogrammers.charty.UpdateWidgetsIntent": "Update Widgets (Charty)"
+      "brogrammers.charty.UpdateWidgetsIntent": "Update Widgets"
     },
 
     "Neeva": {
-      "co.neeva.app.ios.browser.OpenURLIntent": "Open URL (Neeva)",
+      "co.neeva.app.ios.browser.OpenURLIntent": "Open URL",
 
-      "co.neeva.app.ios.browser.SearchNeevaIntent": "Search Neeva (Neeva)"
+      "co.neeva.app.ios.browser.SearchNeevaIntent": "Search Neeva"
     },
 
     "a-Shell": {
-      "AsheKube.app.a-Shell.ExecuteCommandIntent": "Execute Command (a-Shell)",
+      "AsheKube.app.a-Shell.ExecuteCommandIntent": "Execute Command",
 
-      "AsheKube.app.a-Shell.GetFileIntent": "Get File (a-Shell)",
+      "AsheKube.app.a-Shell.GetFileIntent": "Get File",
 
-      "AsheKube.app.a-Shell.PutFileIntent": "Put File (a-Shell)"
+      "AsheKube.app.a-Shell.PutFileIntent": "Put File"
     },
 
     "2Do": {
-      "guidedways.2Do.add": "Add 2Do Task (2Do)"
+      "guidedways.2Do.add": "Add 2Do Task"
     },
 
     "Airmail": {
-      "airmailapp.iphone.AMSearchMailIntent": "Search Mail (Airmail)",
+      "airmailapp.iphone.AMSearchMailIntent": "Search Mail",
 
-      "airmailapp.iphone.AMSendEmailIntent": "Send Email (Airmail)"
+      "airmailapp.iphone.AMSendEmailIntent": "Send Email"
     },
 
     "App in the Air": {
-      "aita.app.SearchFlightsForBookingIntent": "Search flights for booking (App in the Air)"
+      "aita.app.SearchFlightsForBookingIntent": "Search flights for booking"
     },
 
     "Bear": {
-      "shinyfrog.bear-iOS.SFAddFilesToNoteIntent": "Add files to note (Bear)",
+      "shinyfrog.bear-iOS.SFAddFilesToNoteIntent": "Add files to note",
 
-      "shinyfrog.bear-iOS.SFAddTagsToNoteIntent": "Add tags to note (Bear)",
+      "shinyfrog.bear-iOS.SFAddTagsToNoteIntent": "Add tags to note",
 
-      "shinyfrog.bear-iOS.SFAddToNoteIntent": "Add text to a note (Bear)",
+      "shinyfrog.bear-iOS.SFAddToNoteIntent": "Add text to a note",
 
-      "shinyfrog.bear-IOS.add": "Add to Bear Note (Bear)",
+      "shinyfrog.bear-IOS.add": "Add to Bear Note",
 
-      "shinyfrog.bear-iOS.SFArchiveNoteIntent": "Archive note (Bear)",
+      "shinyfrog.bear-iOS.SFArchiveNoteIntent": "Archive note",
 
-      "shinyfrog.bear-IOS.create": "Create Bear Note (Bear)",
+      "shinyfrog.bear-IOS.create": "Create Bear Note",
 
-      "shinyfrog.bear-IOS.grab": "Create Bear Note from URL (Bear)",
+      "shinyfrog.bear-IOS.grab": "Create Bear Note from URL",
 
-      "shinyfrog.bear-iOS.SFCreateNoteIntent": "Create Note (Bear)",
+      "shinyfrog.bear-iOS.SFCreateNoteIntent": "Create Note",
 
-      "shinyfrog.bear-iOS.SFCreateNoteFromURLIntent": "Create note from URL (Bear)",
+      "shinyfrog.bear-iOS.SFCreateNoteFromURLIntent": "Create note from URL",
 
-      "shinyfrog.bear-IOS.contents": "Get Contents of Bear Note (Bear)",
+      "shinyfrog.bear-IOS.contents": "Get Contents of Bear Note",
 
-      "shinyfrog.bear-iOS.SFGetNoteIntent": "Get note (Bear)",
+      "shinyfrog.bear-iOS.SFGetNoteIntent": "Get note",
 
-      "shinyfrog.bear-iOS.SFGetNoteFilesIntent": "Get note files (Bear)",
+      "shinyfrog.bear-iOS.SFGetNoteFilesIntent": "Get note files",
 
-      "shinyfrog.bear-iOS.SFGetTagIntent": "Get tag (Bear)",
+      "shinyfrog.bear-iOS.SFGetTagIntent": "Get tag",
 
-      "shinyfrog.bear-IOS.open": "Open Bear Note (Bear)",
+      "shinyfrog.bear-IOS.open": "Open Bear Note",
 
-      "shinyfrog.bear-iOS.SFOpenNoteIntent": "Open note (Bear)",
+      "shinyfrog.bear-iOS.SFOpenNoteIntent": "Open note",
 
-      "shinyfrog.bear-iOS.SFOpenLocationIntent": "Open section (Bear)",
+      "shinyfrog.bear-iOS.SFOpenLocationIntent": "Open section",
 
-      "shinyfrog.bear-iOS.SFOpenTagIntent": "Open Tag (Bear)",
+      "shinyfrog.bear-iOS.SFOpenTagIntent": "Open Tag",
 
-      "shinyfrog.bear-iOS.SFPinNoteIntent": "Pin note (Bear)",
+      "shinyfrog.bear-iOS.SFPinNoteIntent": "Pin note",
 
-      "shinyfrog.bear-IOS.search": "Search in Bear (Bear)",
+      "shinyfrog.bear-IOS.search": "Search in Bear",
 
-      "shinyfrog.bear-iOS.SFSearchNotesIntent": "Search notes (Bear)",
+      "shinyfrog.bear-iOS.SFSearchNotesIntent": "Search notes",
 
-      "shinyfrog.bear-iOS.SFSearchTagsIntent": "Search tags (Bear)",
+      "shinyfrog.bear-iOS.SFSearchTagsIntent": "Search tags",
 
-      "shinyfrog.bear-iOS.SFTrashNoteIntent": "Trash note (Bear)"
+      "shinyfrog.bear-iOS.SFTrashNoteIntent": "Trash note"
     },
 
     "LibTerm": {
-      "ch.marcela.ada.LibTerm.RunCommandIntent": "Run Command (LibTerm)"
+      "ch.marcela.ada.LibTerm.RunCommandIntent": "Run Command"
     },
 
     "Buffer": {
-      "buffer.buffer.EditChannelScheduleIntent": "Add Channel Posting Times (Buffer)",
+      "buffer.buffer.EditChannelScheduleIntent": "Add Channel Posting Times",
 
-      "buffer.buffer.CreatePostIntent": "Create Post (Buffer)",
+      "buffer.buffer.CreatePostIntent": "Create Post",
 
-      "buffer.buffer.SelectProfileIntent": "Get Channel (Buffer)",
+      "buffer.buffer.SelectProfileIntent": "Get Channel",
 
-      "buffer.buffer.PauseAllChannelsIntent": "Pause All Channels (Buffer)",
+      "buffer.buffer.PauseAllChannelsIntent": "Pause All Channels",
 
-      "buffer.buffer.PauseChannelIntent": "Pause Channel (Buffer)",
+      "buffer.buffer.PauseChannelIntent": "Pause Channel",
 
-      "buffer.buffer.QueueCountIntent": "Queue Count (Buffer)"
+      "buffer.buffer.QueueCountIntent": "Queue Count"
     },
 
     "ChargePoint": {
-      "coulomb.ChargePoint.CPTJoinWaitlistIntent": "Join Waitlist (ChargePoint)"
+      "coulomb.ChargePoint.CPTJoinWaitlistIntent": "Join Waitlist"
     },
 
     "Castro": {
-      "co.supertop.Castro-2.AdjustPlaybackSpeedIntent": "Adjust Playback Position (Castro)",
+      "co.supertop.Castro-2.AdjustPlaybackSpeedIntent": "Adjust Playback Position",
 
-      "co.supertop.Castro-2.AdjustQueuePositionIntent": "Adjust Queue Position (Castro)",
+      "co.supertop.Castro-2.AdjustQueuePositionIntent": "Adjust Queue Position",
 
-      "co.supertop.Castro-2.ChapterControlIntent": "Chapter Skipping (Castro)",
+      "co.supertop.Castro-2.ChapterControlIntent": "Chapter Skipping",
 
-      "co.supertop.Castro-2.ClearEpisodeIntent": "Clear Episode (Castro)",
+      "co.supertop.Castro-2.ClearEpisodeIntent": "Clear Episode",
 
-      "co.supertop.Castro-2.GetQueuedEpisodesIntent": "Get Queued Episodes (Castro)",
+      "co.supertop.Castro-2.GetQueuedEpisodesIntent": "Get Queued Episodes",
 
-      "co.supertop.Castro-2.GetNowPlayingEpisodeDetailsIntent": "Get Now Playing Episode (Castro)",
+      "co.supertop.Castro-2.GetNowPlayingEpisodeDetailsIntent": "Get Now Playing Episode",
 
-      "co.supertop.Castro-2.SearchTentaclesIntent": "Search Podcasts (Castro)",
+      "co.supertop.Castro-2.SearchTentaclesIntent": "Search Podcasts",
 
-      "co.supertop.Castro-2.SetPlaybackSpeedIntent": "Set Playback Speed (Castro)",
+      "co.supertop.Castro-2.SetPlaybackSpeedIntent": "Set Playback Speed",
 
-      "co.supertop.Castro-2.SubscribeIntent": "Subscribe To Show (Castro)",
+      "co.supertop.Castro-2.SubscribeIntent": "Subscribe To Show",
 
-      "co.supertop.Castro-2.ToggleContinuousPlayIntent": "Toggle Continuous Play (Castro)",
+      "co.supertop.Castro-2.ToggleContinuousPlayIntent": "Toggle Continuous Play",
 
-      "co.supertop.Castro-2.ToggleEnhanceVoicesIntent": "Toggle Enhance Videos (Castro)",
+      "co.supertop.Castro-2.ToggleEnhanceVoicesIntent": "Toggle Enhance Videos",
 
-      "co.supertop.Castro-2.ToggleTrimSilenceIntent": "Toggle Trim Silence (Castro)"
+      "co.supertop.Castro-2.ToggleTrimSilenceIntent": "Toggle Trim Silence"
     },
 
     "Daily Dictionary": {
-      "anthonymayo.DailyDictionary.ShowDailyWordIntent": "Word of the Day (Daily Dictionary)"
+      "anthonymayo.DailyDictionary.ShowDailyWordIntent": "Word of the Day"
     },
 
     "Deliveries": {
-      "junecloud.Deliveries.JUNAddDeliveryIntent": "Add a delivery (Deliveries)",
+      "junecloud.Deliveries.JUNAddDeliveryIntent": "Add a delivery",
 
-      "junecloud.Deliveries.JUNShowDeliveriesIntent": "Check my deliveries (Deliveries)",
+      "junecloud.Deliveries.JUNShowDeliveriesIntent": "Check my deliveries",
 
-      "junecloud.Deliveries.JUNNextDeliveryIntent": "Check my next delivery (Deliveries)",
+      "junecloud.Deliveries.JUNNextDeliveryIntent": "Check my next delivery",
 
-      "junecloud.Deliveries.JUNCheckDeliveryIntent": "Check on a delivery (Deliveries)"
+      "junecloud.Deliveries.JUNCheckDeliveryIntent": "Check on a delivery"
     },
 
     "CARROT": {
-      "grailr.CARROTweather.CurrentForecastIntent": "Get Weather Report (CARROT)"
+      "grailr.CARROTweather.CurrentForecastIntent": "Get Weather Report"
     },
 
     "Pushcut": {
-      "pushcut.Pushcut.CancelNotificationIntent": "Cancel Notification (Pushcut)",
+      "pushcut.Pushcut.CancelNotificationIntent": "Cancel Notification",
 
-      "pushcut.Pushcut.CancelServerActionIntent": "Cancel Server Action (Pushcut)",
+      "pushcut.Pushcut.CancelServerActionIntent": "Cancel Server Action",
 
-      "pushcut.Pushcut.ExecuteServerActionIntent": "Execute Server Action (Pushcut)",
+      "pushcut.Pushcut.ExecuteServerActionIntent": "Execute Server Action",
 
-      "pushcut.Pushcut.RunShortcutIntent": "Schedule Shortcut (Pushcut)",
+      "pushcut.Pushcut.RunShortcutIntent": "Schedule Shortcut",
 
-      "pushcut.Pushcut.SendNotificationIntent": "Send Notification (Pushcut)",
+      "pushcut.Pushcut.SendNotificationIntent": "Send Notification",
 
-      "pushcut.Pushcut.ShowNotificationIntent": "Show Notification (Pushcut)",
+      "pushcut.Pushcut.ShowNotificationIntent": "Show Notification",
 
-      "pushcut.Pushcut.ChangeWidgetContentIntent": "Update Widget (Pushcut)",
+      "pushcut.Pushcut.ChangeWidgetContentIntent": "Update Widget",
 
-      "pushcut.Pushcut.UploadImageIntent": "Upload Image (Pushcut)"
+      "pushcut.Pushcut.UploadImageIntent": "Upload Image"
     },
 
     "Shortcutify": {
-      "shortcutify.Shortcutify.AirtableListRecordsIntent": "Airtable: Insert Record (Shortcutify)",
+      "shortcutify.Shortcutify.AirtableListRecordsIntent": "Airtable: Insert Record",
 
-      "shortcutify.Shortcutify.AirtableRetrieveRecordIntent": "Airtable: List Records (Shortcutify)",
+      "shortcutify.Shortcutify.AirtableRetrieveRecordIntent": "Airtable: List Records",
 
-      "shortcutify.Shortcutify.CoinbaseListAccountsIntent": "Coinbase: List Accounts (Shortcutify)",
+      "shortcutify.Shortcutify.CoinbaseListAccountsIntent": "Coinbase: List Accounts",
 
-      "shortcutify.Shortcutify.GoogledriveDownloadFileIntent": "Google Drive: Download File (Shortcutify)",
+      "shortcutify.Shortcutify.GoogledriveDownloadFileIntent": "Google Drive: Download File",
 
-      "shortcutify.Shortcutify.GoogledriveGetFileIntent": "Google Drive: Get File (Shortcutify)",
+      "shortcutify.Shortcutify.GoogledriveGetFileIntent": "Google Drive: Get File",
 
-      "shortcutify.Shortcutify.GoogledriveGetFilesListIntent": "Google Drive: Get Files List (Shortcutify)",
+      "shortcutify.Shortcutify.GoogledriveGetFilesListIntent": "Google Drive: Get Files List",
 
-      "shortcutify.Shortcutify.GoogledriveUploadFileIntent": "Google Drive: Upload File (Shortcutify)",
+      "shortcutify.Shortcutify.GoogledriveUploadFileIntent": "Google Drive: Upload File",
 
-      "shortcutify.Shortcutify.GoogleMapsGetDirectionsIntent": "Google Maps: Get Directions (Shortcutify)",
+      "shortcutify.Shortcutify.GoogleMapsGetDirectionsIntent": "Google Maps: Get Directions",
 
-      "shortcutify.Shortcutify.LifxActivateSceneIntent": "Lifx: Activate Scene (Shortcutify)",
+      "shortcutify.Shortcutify.LifxActivateSceneIntent": "Lifx: Activate Scene",
 
-      "shortcutify.Shortcutify.LifxSetLightStateIntent": "Lifx: Set Light State (Shortcutify)",
+      "shortcutify.Shortcutify.LifxSetLightStateIntent": "Lifx: Set Light State",
 
-      "shortcutify.Shortcutify.LifxSetPowerStateIntent": "Lifx: Set Power State (Shortcutify)",
+      "shortcutify.Shortcutify.LifxSetPowerStateIntent": "Lifx: Set Power State",
 
-      "shortcutify.Shortcutify.LifxTogglePowerIntent": "Lifx: Toggle Power (Shortcutify)",
+      "shortcutify.Shortcutify.LifxTogglePowerIntent": "Lifx: Toggle Power",
 
-      "shortcutify.Shortcutify.MacCaptureScreenVideoIntent": "macOS: Capture Screen Video (Shortcutify)",
+      "shortcutify.Shortcutify.MacCaptureScreenVideoIntent": "macOS: Capture Screen Video",
 
-      "shortcutify.Shortcutify.MacCaptureScreenshotIntent": "macOS: Capture Screenshot (Shortcutify)",
+      "shortcutify.Shortcutify.MacCaptureScreenshotIntent": "macOS: Capture Screenshot",
 
-      "shortcutify.Shortcutify.MacLockScreenIntent": "macOS: Lock Screen (Shortcutify)",
+      "shortcutify.Shortcutify.MacLockScreenIntent": "macOS: Lock Screen",
 
-      "shortcutify.Shortcutify.MacSleepIntent": "macOS: Sleep (Shortcutify)",
+      "shortcutify.Shortcutify.MacSleepIntent": "macOS: Sleep",
 
-      "shortcutify.Shortcutify.MacTriggerKeyboardShortcutIntent": "macOS: Trigger Keyboard Shortcut (Shortcutify)",
+      "shortcutify.Shortcutify.MacTriggerKeyboardShortcutIntent": "macOS: Trigger Keyboard Shortcut",
 
-      "shortcutify.Shortcutify.MacUploadFileIntent": "macOS: Upload File (Shortcutify)",
+      "shortcutify.Shortcutify.MacUploadFileIntent": "macOS: Upload File",
 
-      "shortcutify.Shortcutify.MacWakeIntent": "macOS: Wake (Shortcutify)",
+      "shortcutify.Shortcutify.MacWakeIntent": "macOS: Wake",
 
-      "shortcutify.Shortcutify.MacWakeAndLogInIntent": "macOS: Wake and Log in (Shortcutify)",
+      "shortcutify.Shortcutify.MacWakeAndLogInIntent": "macOS: Wake and Log in",
 
-      "shortcutify.Shortcutify.ShortcutifyConvertToOptionItemIntent": "Shortcutify: Convert to Option Item (Shortcutify)",
+      "shortcutify.Shortcutify.ShortcutifyConvertToOptionItemIntent": "Shortcutify: Convert to Option Item",
 
-      "shortcutify.Shortcutify.SightengineGetImageFilePropertiesIntent": "Sightengine: Get image file properties (Shortcutify)",
+      "shortcutify.Shortcutify.SightengineGetImageFilePropertiesIntent": "Sightengine: Get image file properties",
 
-      "shortcutify.Shortcutify.SightengineGetImageUrlPropertiesIntent": "Sightengine: Get image url properties (Shortcutify)",
+      "shortcutify.Shortcutify.SightengineGetImageUrlPropertiesIntent": "Sightengine: Get image url properties",
 
-      "shortcutify.Shortcutify.SpotifyAddTrackToPlaylistIntent": "Spotify: Add Track to Playlist (Shortcutify)",
+      "shortcutify.Shortcutify.SpotifyAddTrackToPlaylistIntent": "Spotify: Add Track to Playlist",
 
-      "shortcutify.Shortcutify.SpotifyGetCurrentlyPlayingTrackIntent": "Spotify: Get Currently Playing Track (Shortcutify)",
+      "shortcutify.Shortcutify.SpotifyGetCurrentlyPlayingTrackIntent": "Spotify: Get Currently Playing Track",
 
-      "shortcutify.Shortcutify.SpotifyGetMyPlaylistsIntent": "Spotify: Get My Playlists (Shortcutify)",
+      "shortcutify.Shortcutify.SpotifyGetMyPlaylistsIntent": "Spotify: Get My Playlists",
 
-      "shortcutify.Shortcutify.SpotifyPlayPauseIntent": "Spotify: Play - Pause (Shortcutify)",
+      "shortcutify.Shortcutify.SpotifyPlayPauseIntent": "Spotify: Play - Pause",
 
-      "shortcutify.Shortcutify.SpotifyPlaySpotifyURLIntent": "Spotify: Play Spotify URL (Shortcutify)",
+      "shortcutify.Shortcutify.SpotifyPlaySpotifyURLIntent": "Spotify: Play Spotify URL",
 
-      "shortcutify.Shortcutify.SpotifySearchAndPlayOnSpotifyIntent": "Spotify: Search and Play on Spotify (Shortcutify)",
+      "shortcutify.Shortcutify.SpotifySearchAndPlayOnSpotifyIntent": "Spotify: Search and Play on Spotify",
 
-      "shortcutify.Shortcutify.SpotifySetRepeatModeIntent": "Spotify: Set Repeat Mode (Shortcutify)",
+      "shortcutify.Shortcutify.SpotifySetRepeatModeIntent": "Spotify: Set Repeat Mode",
 
-      "shortcutify.Shortcutify.SpotifyToggleShuffleIntent": "Spotify: Toggle Shuffle (Shortcutify)",
+      "shortcutify.Shortcutify.SpotifyToggleShuffleIntent": "Spotify: Toggle Shuffle",
 
-      "shortcutify.Shortcutify.SpotifyTransferPlaybackIntent": "Spotify: Transfer Playback (Shortcutify)",
+      "shortcutify.Shortcutify.SpotifyTransferPlaybackIntent": "Spotify: Transfer Playback",
 
-      "shortcutify.Shortcutify.SpotifyUploadPlaylistCoverImageIntent": "Spotify: Upload Playlist Cover Image (Shortcutify)",
+      "shortcutify.Shortcutify.SpotifyUploadPlaylistCoverImageIntent": "Spotify: Upload Playlist Cover Image",
 
-      "shortcutify.Shortcutify.TodoistAddProjectIntent": "Todoist: Add Project (Shortcutify)",
+      "shortcutify.Shortcutify.TodoistAddProjectIntent": "Todoist: Add Project",
 
-      "shortcutify.Shortcutify.TodoistAddTaskToProjectIntent": "Todoist: Add Task to Project (Shortcutify)",
+      "shortcutify.Shortcutify.TodoistAddTaskToProjectIntent": "Todoist: Add Task to Project",
 
-      "shortcutify.Shortcutify.TodoistGetProjectTasksIntent": "Todoist: Get Project Tasks (Shortcutify)",
+      "shortcutify.Shortcutify.TodoistGetProjectTasksIntent": "Todoist: Get Project Tasks",
 
-      "shortcutify.Shortcutify.TodoistGetProjectsIntent": "Todoist: Get Projects (Shortcutify)",
+      "shortcutify.Shortcutify.TodoistGetProjectsIntent": "Todoist: Get Projects",
 
-      "shortcutify.Shortcutify.TodoistQuickAddTaskIntent": "Todoist: Quick Add Task (Shortcutify)"
+      "shortcutify.Shortcutify.TodoistQuickAddTaskIntent": "Todoist: Quick Add Task"
     },
 
     "Twitter": {
-      "tweet": "Tweet (Twitter)"
+      "tweet": "Tweet"
     },
 
     "Ai Launcher": {
-      "vitalek.IconFor.Contact.WidgetRowLauncherIntent": "Widget Launcher (Ai Launcher)",
+      "vitalek.IconFor.Contact.WidgetRowLauncherIntent": "Widget Launcher",
 
-      "vitalek.IconFor.Contact.WidgetLauncherIntent": "Widget Launcher (Ai Launcher)"
+      "vitalek.IconFor.Contact.WidgetLauncherIntent": "Widget Launcher"
     },
 
     "FineReader": {
-      "abbyy.finescanner.AFSGetPDFForDocumentIntent": "Get PDF (FineReader)",
+      "abbyy.finescanner.AFSGetPDFForDocumentIntent": "Get PDF",
 
-      "abbyy.finescanner.AFSGetRecognizedDocumentIntent": "Get Recognized Document (FineReader)"
+      "abbyy.finescanner.AFSGetRecognizedDocumentIntent": "Get Recognized Document"
     },
 
     "Focus": {
-      "laser-focused.focus-ios.ControlSessionIntent": "Control Session (Focus)",
+      "laser-focused.focus-ios.ControlSessionIntent": "Control Session",
 
-      "laser-focused.focus-ios.StartSessionIntent": "Start Timer (Focus)"
+      "laser-focused.focus-ios.StartSessionIntent": "Start Timer"
     },
 
     "Night Sky X": {
-      "icandiapps.nightsky.RecognizeObjectIntent": "Recognized Object (Night Sky X)",
+      "icandiapps.nightsky.RecognizeObjectIntent": "Recognized Object",
 
-      "icandiapps.nightsky.ShowObjectIntent": "Show Object (Night Sky X)",
+      "icandiapps.nightsky.ShowObjectIntent": "Show Object",
 
-      "icandiapps.nightsky.StartMindfulnessIntent": "Start Night Sky Mindfulness (Night Sky X)"
+      "icandiapps.nightsky.StartMindfulnessIntent": "Start Night Sky Mindfulness"
     },
 
     "NS": {
-      "ns.reisplannerxtra.FavoriteWidgetConfigurationIntent": "Favorites widget configuration (NS)"
+      "ns.reisplannerxtra.FavoriteWidgetConfigurationIntent": "Favorites widget configuration"
     },
 
     "OmniFocus 3": {
-      "omnigroup.OmniFocus3.iOS.AddTaskIntent": "Add Item (OmniFocus 3)",
+      "omnigroup.OmniFocus3.iOS.AddTaskIntent": "Add Item",
 
-      "omnigroup.OmniFocus3.iOS.AddTaskPaperIntent": "Add TaskPaper (OmniFocus 3)",
+      "omnigroup.OmniFocus3.iOS.AddTaskPaperIntent": "Add TaskPaper",
 
-      "omnigroup.OmniFocus3.iOS.FindTasksIntent": "Find Items (OmniFocus 3)",
+      "omnigroup.OmniFocus3.iOS.FindTasksIntent": "Find Items",
 
-      "omnigroup.OmniFocus3.iOS.FindProjectsIntent": "Find Projects (OmniFocus 3)",
+      "omnigroup.OmniFocus3.iOS.FindProjectsIntent": "Find Projects",
 
-      "omnigroup.OmniFocus3.iOS.FindTagsIntent": "Find Tags (OmniFocus 3)",
+      "omnigroup.OmniFocus3.iOS.FindTagsIntent": "Find Tags",
 
-      "omnigroup.OmniFocus3.iOS.GetDatabaseObjectFromInputIntent": "Get Database Object Result from Input (OmniFocus 3)",
+      "omnigroup.OmniFocus3.iOS.GetDatabaseObjectFromInputIntent": "Get Database Object Result from Input",
 
-      "omnigroup.OmniFocus3.iOS.RunPlugInIntent": "Omni Automation Plug-In (OmniFocus 3)",
+      "omnigroup.OmniFocus3.iOS.RunPlugInIntent": "Omni Automation Plug-In",
 
-      "omnigroup.OmniFocus3.iOS.RunOmniJSIntent": "Omni Automation Script (OmniFocus 3)",
+      "omnigroup.OmniFocus3.iOS.RunOmniJSIntent": "Omni Automation Script",
 
-      "omnigroup.OmniFocus3.iOS.ShowFromChoiceIntent": "Show in OmniFocus (OmniFocus 3)",
+      "omnigroup.OmniFocus3.iOS.ShowFromChoiceIntent": "Show in OmniFocus",
 
-      "omnigroup.OmniFocus3.iOS.TodaysForecastIntent": "Today's Forecast (OmniFocus 3)"
+      "omnigroup.OmniFocus3.iOS.TodaysForecastIntent": "Today's Forecast"
     },
 
     "OTP Auth": {
-      "de.cooperrs.Authenticator.ACCopyCodeIntent": "Copy Code (OTP Auth)"
+      "de.cooperrs.Authenticator.ACCopyCodeIntent": "Copy Code"
     },
 
     "RECaf": {
-      "joecieplinski.RECaf.LogCaffeineWithParametersIntent": "Log Caffeine (RECaf)"
+      "joecieplinski.RECaf.LogCaffeineWithParametersIntent": "Log Caffeine"
     },
 
     "ServiceM8": {
-      "servicem8.CallIntent": "Call Client (ServiceM8)",
+      "servicem8.CallIntent": "Call Client",
 
-      "servicem8.CheckoutIntent": "Check out of current job (ServiceM8)",
+      "servicem8.CheckoutIntent": "Check out of current job",
 
-      "servicem8.ClockIntent": "Clock on (ServiceM8)",
+      "servicem8.ClockIntent": "Clock on",
 
-      "servicem8.LunchIntent": "Lunch (ServiceM8)",
+      "servicem8.LunchIntent": "Lunch",
 
-      "servicem8.SendMessageIntent": "Send text message (ServiceM8)",
+      "servicem8.SendMessageIntent": "Send text message",
 
-      "servicem8.AfterHoursRoleIntent": "Set on call staff member (ServiceM8)",
+      "servicem8.AfterHoursRoleIntent": "Set on call staff member",
 
-      "servicem8.StartNextJobIntent": "Start next job (ServiceM8)",
+      "servicem8.StartNextJobIntent": "Start next job",
 
-      "servicem8.TakePhotoIntent": "Take job photo (ServiceM8)",
+      "servicem8.TakePhotoIntent": "Take job photo",
 
-      "servicem8.ClientNameIntent": "View Client's name (ServiceM8)"
+      "servicem8.ClientNameIntent": "View Client's name"
     },
 
     "SmartGym": {
-      "smartgymapp.smartgym.ViewRoutineIntent": "View Student's Routine (SmartGym)",
+      "smartgymapp.smartgym.ViewRoutineIntent": "View Student's Routine",
 
-      "smartgymapp.smartgym.WeekSummaryIntent": "Week's Summary (SmartGym)"
+      "smartgymapp.smartgym.WeekSummaryIntent": "Week's Summary"
     },
 
     "SongShift": {
-      "cpdigitaldarkroom.SongShift.OWDeezerIntent": "Open in Deezer (SongShift)",
+      "cpdigitaldarkroom.SongShift.OWDeezerIntent": "Open in Deezer",
 
-      "cpdigitaldarkroom.SongShift.OWSpotifyIntent": "Open in Spotify (SongShift)",
+      "cpdigitaldarkroom.SongShift.OWSpotifyIntent": "Open in Spotify",
 
-      "cpdigitaldarkroom.SongShift.OWAppleMusicIntent": "Open in the Music app (SongShift)",
+      "cpdigitaldarkroom.SongShift.OWAppleMusicIntent": "Open in the Music app",
 
-      "cpdigitaldarkroom.SongShift.OWTidalIntent": "Open in Tidal (SongShift)"
+      "cpdigitaldarkroom.SongShift.OWTidalIntent": "Open in Tidal"
     },
 
     "Google Assistant": {
-      "google.OPA.OPAAskGoogleIntent": "Ask Google (Assistant)"
+      "google.OPA.OPAAskGoogleIntent": "Ask Google"
     },
 
     "Google Chrome": {
-      "google.chrome.ios.OpenInChromeIntent": "Open URLs in Chrome (Chrome)",
+      "google.chrome.ios.OpenInChromeIntent": "Open URLs in Chrome",
 
-      "google.chrome.ios.OpenInChromeIncognitoIntent": "Open URLs in Chrome in Incognito (Chrome)",
+      "google.chrome.ios.OpenInChromeIncognitoIntent": "Open URLs in Chrome in Incognito",
 
-      "google.chrome.ios.SearchInChromeIntent": "Search in Chrome (Chrome)"
+      "google.chrome.ios.SearchInChromeIntent": "Search in Chrome"
     },
 
     "FallCall Lite": {
-      "fallcall.fallcall-lite.SendHelpIntent": "Assistance Needed (FallCall Lite)"
+      "fallcall.fallcall-lite.SendHelpIntent": "Assistance Needed"
     },
 
     "Fandango": {
-      "fandango.fandango.UpcomingOrderIntent": "See My Ticket (Fandango)"
+      "fandango.fandango.UpcomingOrderIntent": "See My Ticket"
     },
 
     "JSBox": {
-      "cyan.jsbox.RunJavaScriptIntent": "Run JavaScript (JSBox)",
+      "cyan.jsbox.RunJavaScriptIntent": "Run JavaScript",
 
-      "cyan.jsbox.RunJSBoxIntent": "Run JSBox script (JSBox)",
+      "cyan.jsbox.RunJSBoxIntent": "Run JSBox script",
 
-      "cyan.jsbox.RunJSBoxUIIntent": "Run JSBox UI (JSBox)"
+      "cyan.jsbox.RunJSBoxUIIntent": "Run JSBox UI"
     },
 
     "LIFX": {
-      "lifx.lifx.LFXLightThemeIntent": "Apply a Theme (LIFX)",
+      "lifx.lifx.LFXLightThemeIntent": "Apply a Theme",
 
-      "lifx.lifx.LFXCleanCycleIntent": "Clean Cycle (LIFX)",
+      "lifx.lifx.LFXCleanCycleIntent": "Clean Cycle",
 
-      "lifx.lifx.LFXGetScenesIntent": "Get Scenes (LIFX)",
+      "lifx.lifx.LFXGetScenesIntent": "Get Scenes",
 
-      "lifx.lifx.LFXGetLightsIntent": "List Lights (LIFX)",
+      "lifx.lifx.LFXGetLightsIntent": "List Lights",
 
-      "lifx.lifx.LFXGetThemesIntent": "List Themes (LIFX)",
+      "lifx.lifx.LFXGetThemesIntent": "List Themes",
 
-      "lifx.lifx.LFXLightSceneIntent": "Set a Scene (LIFX)",
+      "lifx.lifx.LFXLightSceneIntent": "Set a Scene",
 
-      "lifx.lifx.LFXLightBrightnessIntent": "Set light brightness (LIFX)",
+      "lifx.lifx.LFXLightBrightnessIntent": "Set light brightness",
 
-      "lifx.lifx.LFXLightColorIntent": "Set light color (LIFX)",
+      "lifx.lifx.LFXLightColorIntent": "Set light color",
 
-      "lifx.lifx.LFXLightPowerIntent": "Set light power (LIFX)",
+      "lifx.lifx.LFXLightPowerIntent": "Set light power",
 
-      "lifx.lifx.LFXLightStateIntent": "Set light state (LIFX)"
+      "lifx.lifx.LFXLightStateIntent": "Set light state"
     },
 
     "Zoho Invoice": {
-      "zoho.zinvoice.CreateExpenseIntent": "Create Expense (Zoho Invoice)",
+      "zoho.zinvoice.CreateExpenseIntent": "Create Expense",
 
-      "zoho.zinvoice.CreateInvoiceIntent": "Create Invoice (Zoho Invoice)",
+      "zoho.zinvoice.CreateInvoiceIntent": "Create Invoice",
 
-      "zoho.zinvoice.CreateInvoiceFromTimesheetsIntent": "Create Invoice from timesheets (Zoho Invoice)",
+      "zoho.zinvoice.CreateInvoiceFromTimesheetsIntent": "Create Invoice from timesheets",
 
-      "zoho.zinvoice.CreateItemIntent": "Create Item (Zoho Invoice)",
+      "zoho.zinvoice.CreateItemIntent": "Create Item",
 
-      "zoho.zinvoice.FindInvoicesIntent": "Find Invoices (Zoho Invoice)",
+      "zoho.zinvoice.FindInvoicesIntent": "Find Invoices",
 
-      "zoho.zinvoice.FindTimesheetsIntent": "Find Timesheets (Zoho Invoice)",
+      "zoho.zinvoice.FindTimesheetsIntent": "Find Timesheets",
 
-      "zoho.zinvoice.GenerateInvoiceLinkIntent": "Generate public link for invoice (Zoho Invoice)",
+      "zoho.zinvoice.GenerateInvoiceLinkIntent": "Generate public link for invoice",
 
-      "zoho.zinvoice.GetCustomerDetailsIntent": "Get Customer Details (Zoho Invoice)",
+      "zoho.zinvoice.GetCustomerDetailsIntent": "Get Customer Details",
 
-      "zoho.zinvoice.RecordPaymentIntent": "Record Payment (Zoho Invoice)",
+      "zoho.zinvoice.RecordPaymentIntent": "Record Payment",
 
-      "zoho.zinvoice.SearchCustomerIntent": "Search customers (Zoho Invoice)",
+      "zoho.zinvoice.SearchCustomerIntent": "Search customers",
 
-      "zoho.zinvoice.SearchItemIntent": "Search item (Zoho Invoice)",
+      "zoho.zinvoice.SearchItemIntent": "Search item",
 
-      "zoho.zinvoice.SendInvoiceReminderIntent": "Search reminder for an invoice (Zoho Invoice)"
+      "zoho.zinvoice.SendInvoiceReminderIntent": "Search reminder for an invoice"
     }
   },
 
   "Apple Apps": {
   
     "Clock": {
-      "apple.mobiletimer-framework.MobileTimerIntents.MTCreateAlarmIntent": "Create Alarm (Clock)",
+      "apple.mobiletimer-framework.MobileTimerIntents.MTCreateAlarmIntent": "Create Alarm",
 
-      "apple.mobiletimer-framework.MobileTimerIntents.MTGetAlarmsIntent": "Get All Alarms (Clock)",
+      "apple.mobiletimer-framework.MobileTimerIntents.MTGetAlarmsIntent": "Get All Alarms",
 
-      "apple.mobiletimer-framework.MobileTimerIntents.MTToggleAlarmIntent": "Start Timer (Clock)",
+      "apple.mobiletimer-framework.MobileTimerIntents.MTToggleAlarmIntent": "Start Timer",
 
-      "timer.start": "Start Timer (Clock)"
+      "timer.start": "Start Timer"
     },
 
     "Pages": {
-      "apple.Pages.TSADocumentCreateIntent": "Create Document (Pages)",
+      "apple.Pages.TSADocumentCreateIntent": "Create Document",
 
-      "apple.Pages.TSADocumentOpenIntent": "Open Document (Pages)",
+      "apple.Pages.TSADocumentOpenIntent": "Open Document",
 
-      "apple.Pages.TPDocumentBeginPresenterModeIntent": "Open Document in Presenter Mode (Pages)"
+      "apple.Pages.TPDocumentBeginPresenterModeIntent": "Open Document in Presenter Mode"
     },
 
     "Notes": {
-      "apple.mobilenotes.SharingExtension": "Create Note (Notes)",
+      "apple.mobilenotes.SharingExtension": "Create Note",
 
-      "apple.mobilenotes.ICNotesFolderIntent": "Show Folder (Notes)",
+      "apple.mobilenotes.ICNotesFolderIntent": "Show Folder",
 
-      "appendnote": "Append to Note (Notes)",
+      "appendnote": "Append to Note",
 
-      "mobilenotes.SharingExtension": "Create Note (Notes)",
+      "mobilenotes.SharingExtension": "Create Note",
 
-      "filter.notes": "Find Notes (Notes)",
+      "filter.notes": "Find Notes",
 
-      "shownote": "Show Note (Notes)",
+      "shownote": "Show Note",
 
-      "mobilenotes.ICNotesFolderIntent": "Show Notes Folder (Notes)"
+      "mobilenotes.ICNotesFolderIntent": "Show Notes Folder"
     },
 
     "Mail": {
-      "selectemail": "Select Email Address (Mail)",
+      "selectemail": "Select Email Address",
 
-      "email": "Email Addresses (Mail)",
+      "email": "Email Addresses",
 
-      "detect.emailaddress": "Get Email Address from Input (Mail)",
+      "detect.emailaddress": "Get Email Address from Input",
 
-      "sendemail": "Send Email (Mail)"
+      "sendemail": "Send Email"
     },
 
     "Numbers": {
-      "apple.Numbers.TNiOSAddValuesToFormIntent": "Add Records to Form (Numbers)",
+      "apple.Numbers.TNiOSAddValuesToFormIntent": "Add Records to Form",
 
-      "apple.Numbers.TNiOSAddValuesToSpreadsheetIntent": "Add Row to Top or Bottom of Table (Numbers)",
+      "apple.Numbers.TNiOSAddValuesToSpreadsheetIntent": "Add Row to Top or Bottom of Table",
 
-      "apple.Numbers.TSADocumentCreateIntent": "Create Spreadsheet (Numbers)",
+      "apple.Numbers.TSADocumentCreateIntent": "Create Spreadsheet",
 
-      "apple.Numbers.TSADocumentOpenIntent": "Open Spreadsheet (Numbers)"
+      "apple.Numbers.TSADocumentOpenIntent": "Open Spreadsheet"
     },
 
     "Keynote": {
-      "apple.Keynote.TSADocumentCreateIntent": "Create Presentation (Keynote)",
+      "apple.Keynote.TSADocumentCreateIntent": "Create Presentation",
 
-      "apple.Keynote.KNiOSCreateNewOutlineIntent": "Create Presentation in Outline View (Keynote)",
+      "apple.Keynote.KNiOSCreateNewOutlineIntent": "Create Presentation in Outline View",
 
-      "apple.Keynote.TSADocumentOpenIntent": "Open Presentation (Keynote)",
+      "apple.Keynote.TSADocumentOpenIntent": "Open Presentation",
 
-      "apple.Keynote.KNDocumentRehearseIntent": "Open Presentation in Rehearsal Mode (Keynote)",
+      "apple.Keynote.KNDocumentRehearseIntent": "Open Presentation in Rehearsal Mode",
 
-      "apple.Keynote.KNDocumentPlayIntent": "Play Presentation in Show Mode (Keynote)"
+      "apple.Keynote.KNDocumentPlayIntent": "Play Presentation in Show Mode"
     },
 
     "FaceTime": {
@@ -1139,49 +1138,49 @@ This repo contains a list of action identifiers (found in plist files) and their
     },
 
     "Apple TV": {
-      "TVRemoteUIService.LaunchScreenSaverIntent": "Launch Screensaver on Apple TV (Apple TV)",
+      "TVRemoteUIService.LaunchScreenSaverIntent": "Launch Screensaver on Apple TV",
 
-      "TVRemoteUIService.TVWatchList": "Open App on Apple TV (Apple TV)",
+      "TVRemoteUIService.TVWatchList": "Open App on Apple TV",
 
-      "TVRemoteUIService.LaunchApplicationIntent": "Open App on Apple TV (Apple TV)",
+      "TVRemoteUIService.LaunchApplicationIntent": "Open App on Apple TV",
 
-      "TVRemoteUIService.ToggleCaptionsIntent": "Set Captions (Apple TV)",
+      "TVRemoteUIService.ToggleCaptionsIntent": "Set Captions",
 
-      "TVRemoteUIService.PauseContentIntent": "Play/Pause Apple TV (Apple TV)",
+      "TVRemoteUIService.PauseContentIntent": "Play/Pause Apple TV",
 
-      "TVRemoteUIService.ToggleSystemAppearanceIntent": "Set Light/Dark Mode (Apple TV)",
+      "TVRemoteUIService.ToggleSystemAppearanceIntent": "Set Light/Dark Mode",
 
-      "TVRemoteUIService.ReduceLoudSoundsIntent": "Set Reduce Loud Sounds (Apple TV)",
+      "TVRemoteUIService.ReduceLoudSoundsIntent": "Set Reduce Loud Sounds",
 
-      "TVRemoteUIService.LaunchRemoteIntent": "Show Remote Control (Apple TV)",
+      "TVRemoteUIService.LaunchRemoteIntent": "Show Remote Control",
 
-      "TVRemoteUIService.SkipContentIntent": "Skip Content on Apple TV (Apple TV)",
+      "TVRemoteUIService.SkipContentIntent": "Skip Content on Apple TV",
 
-      "TVRemoteUIService.SleepAppleTVIntent": "Sleep Apple TV (Apple TV)",
+      "TVRemoteUIService.SleepAppleTVIntent": "Sleep Apple TV",
 
-      "TVRemoteUIService.SwitchUserAccountIntent": "Switch User Account (Apple TV)",
+      "TVRemoteUIService.SwitchUserAccountIntent": "Switch User Account",
 
-      "TVRemoteUIService.WakeAppleTVIntent": "Wake Apple TV (Apple TV)"
+      "TVRemoteUIService.WakeAppleTVIntent": "Wake Apple TV"
     },
 
     "Calendar": {
-      "addnewevent": "Add New Event (Calendar)",
+      "addnewevent": "Add New Event",
 
-      "setters.calendarevents": "Edit Calendar Event (Calendar)",
+      "setters.calendarevents": "Edit Calendar Event",
 
-      "filter.eventattendees": "Filter Event Attendees (Calendar)",
+      "filter.eventattendees": "Filter Event Attendees",
 
-      "filter.calendarevents": "Filter Calendar Events (Calendar)",
+      "filter.calendarevents": "Filter Calendar Events",
 
-      "properties.calendarevents": " Get Details of Calendar Events (Calendar)",
+      "properties.calendarevents": " Get Details of Calendar Events",
 
-      "properties.eventattendees": "Get Details of Event Attendees (Calendar)",
+      "properties.eventattendees": "Get Details of Event Attendees",
 
-      "getupcomingevents": "Get Upcoming Events (Calendar)",
+      "getupcomingevents": "Get Upcoming Events",
 
-      "removeevents": "Remove Events (Calendar)",
+      "removeevents": "Remove Events",
 
-      "showincalendar": "Show in Calendar (Calendar)"
+      "showincalendar": "Show in Calendar"
     },
 
     "Contacts": {
@@ -1209,43 +1208,43 @@ This repo contains a list of action identifiers (found in plist files) and their
     },
 
     "Health": {
-      "filter.health.quantity": "Filter Health Samples (Health)",
+      "filter.health.quantity": "Filter Health Samples",
 
-      "properties.health.quantity": "Get Details of Health Samples (Health)",
+      "properties.health.quantity": "Get Details of Health Samples",
 
-      "health.quantity.log": "Log Health Sample (Health)",
+      "health.quantity.log": "Log Health Sample",
 
-      "health.workout.log": "Log Workout (Health)"
+      "health.workout.log": "Log Workout"
     },
 
     "Reminders": {
-      "addnewreminder": "Add New Reminder (Reminders)",
+      "addnewreminder": "Add New Reminder",
 
-      "setters.reminders": "Edit Reminder (Reminders)",
+      "setters.reminders": "Edit Reminder",
 
-      "filter.reminders": "Find Reminders (Reminders)",
+      "filter.reminders": "Find Reminders",
 
-      "properties.reminders": "Get Details of Reminders (Reminders)",
+      "properties.reminders": "Get Details of Reminders",
 
-      "getupcomingreminders": "Get Upcoming Reminders (Reminders)",
+      "getupcomingreminders": "Get Upcoming Reminders",
 
-      "removereminders": "Remove Reminders (Reminders)",
+      "removereminders": "Remove Reminders",
 
-      "reminders.showlist": "Show Reminders List (Reminders)"
+      "reminders.showlist": "Show Reminders List"
     },
 
     "Safari": {
-      "readinglist": "Add to Reading List (Safari)",
+      "readinglist": "Add to Reading List",
 
-      "properties.safariwebpage": "Get Details of Safari Web Page (Safari)",
+      "properties.safariwebpage": "Get Details of Safari Web Page",
 
-      "openurl": "Open URL (Safari)",
+      "openurl": "Open URL",
 
-      "runjavascriptonwebpage": "Run JavaScript on Web Page (Safari)",
+      "runjavascriptonwebpage": "Run JavaScript on Web Page",
 
-      "searchweb": "Search Web (Safari)",
+      "searchweb": "Search Web",
 
-      "showwebpage": "Show Web Page (Safari)",
+      "showwebpage": "Show Web Page",
 
       "filter.articles": "Filter Articles",
 
@@ -1255,33 +1254,33 @@ This repo contains a list of action identifiers (found in plist files) and their
     },
 
     "Messages": {
-      "sendmessage": "Send Message (Messages)"
+      "sendmessage": "Send Message"
     },
 
     "Books": {
-      "apple.iBooks.openin": "Add PDF in Books (Apple Books)"
+      "apple.iBooks.openin": "Add PDF in Books"
     },
 
     "Files": {
-      "unzip": "Extract Archive (Files)",
+      "unzip": "Extract Archive",
 
-      "makezip": "Make Archive (Files)",
+      "makezip": "Make Archive",
 
-      "file.append": "Append to File (Files)",
+      "file.append": "Append to File",
 
-      "file.createfolder": "Create Folder (Files)",
+      "file.createfolder": "Create Folder",
 
-      "file.delete": "Delete File (Files)",
+      "file.delete": "Delete File",
 
-      "documentpicker.open": "Get File (Files)",
+      "documentpicker.open": "Get File",
 
-      "file.getlink": "Get Link to File (Files)",
+      "file.getlink": "Get Link to File",
 
       "documentpicker.save": "Save File (Filses)",
 
-      "filter.files": "Filter Files (Files)",
+      "filter.files": "Filter Files",
 
-      "properties.files": "Get Details of Files (Files)"
+      "properties.files": "Get Details of Files"
     },
 
     "Maps, Location, and Weather": {
@@ -1293,117 +1292,117 @@ This repo contains a list of action identifiers (found in plist files) and their
 
       "location": "Location",
 
-      "detect.address": "Get Address from Input (Maps)",
+      "detect.address": "Get Address from Input",
 
-      "address": "Street Address (Maps)",
+      "address": "Street Address",
 
-      "getmapslink": "Get Maps URL (Maps)",
+      "getmapslink": "Get Maps URL",
 
-      "getdirections": "Show Directions (Maps)",
+      "getdirections": "Show Directions",
 
-      "searchmaps": "Show in Maps (Maps)",
+      "searchmaps": "Show in Maps",
 
-      "ride.requestride": "Request Ride (Maps)",
+      "ride.requestride": "Request Ride",
 
-      "getdistance": "Get Distance (Maps)",
+      "getdistance": "Get Distance",
 
-      "gethalfwaypoint": "Get Halfway Point (Maps)",
+      "gethalfwaypoint": "Get Halfway Point",
 
-      "gettraveltime": "Get Travel Time (Maps)",
+      "gettraveltime": "Get Travel Time",
 
-      "searchlocalbusinesses": "Search Local Businesses (Maps)",
+      "searchlocalbusinesses": "Search Local Businesses",
 
-      "weather.currentconditions": "Get Current Weather (Weather)",
+      "weather.currentconditions": "Get Current Weather",
 
-      "properties.weather.conditions": "Get Details of Weather Conditions (Weather)",
+      "properties.weather.conditions": "Get Details of Weather Conditions",
 
-      "weather.forecast": "Get Weather Forecast (Weather)"
+      "weather.forecast": "Get Weather Forecast"
     },
 
     "iTunes Store/Apple Music": {
-      "properties.itunesartist": "Get Details of iTunes Artist (iTunes Store)",
+      "properties.itunesartist": "Get Details of iTunes Artist",
 
-      "properties.itunesstore": "Get Details of iTunes Product (iTunes Store)",
+      "properties.itunesstore": "Get Details of iTunes Product",
 
-      "searchitunes": "Search iTunes Store (iTunes Store)",
+      "searchitunes": "Search iTunes Store",
 
-      "showinstore": "Show in iTunes Store (iTunes Store)",
+      "showinstore": "Show in iTunes Store",
 
-      "filter.music": "Find Music (Apple Music)",
+      "filter.music": "Find Music",
 
-      "getcurrentsong": "Get Current Song (Apple Music)",
+      "getcurrentsong": "Get Current Song",
 
-      "properties.music": "Get Details of Music (Apple Music)",
+      "properties.music": "Get Details of Music",
 
-      "playmusic": "Play Music (Apple Music)",
+      "playmusic": "Play Music",
 
-      "exportsong": "Select Music (Apple Music)",
+      "exportsong": "Select Music",
 
-      "addtoplaylist": "Add to Playlist (Apple Music)",
+      "addtoplaylist": "Add to Playlist",
 
-      "createplaylist": "Create Playlist (Apple Music)",
+      "createplaylist": "Create Playlist",
 
-      "get.playlist": "Get Playlist (Apple Music)",
+      "get.playlist": "Get Playlist",
 
-      "addmusictoupnext": "Add to Up Next (Apple Music)",
+      "addmusictoupnext": "Add to Up Next",
 
-      "clearupnext": "Clear Up Next (Apple Music)"
+      "clearupnext": "Clear Up Next"
     },
 
     "Photos": {
-      "delete.photos": "Delete Photos (Photos)",
+      "delete.photos": "Delete Photos",
 
-      "filter.photos": "Find Photos (Photos)",
+      "filter.photos": "Find Photos",
 
-      "mobileslideshow.StreamShareService": "Post to Shared Album (Photos)",
+      "mobileslideshow.StreamShareService": "Post to Shared Album",
 
-      "getlatestphotoimport": "Get Last Import (Photos)",
+      "getlatestphotoimport": "Get Last Import",
 
-      "getlatestbursts": "Get Latest Bursts (Photos)",
+      "getlatestbursts": "Get Latest Bursts",
 
-      "getlatestlivephotos": "Get Latest Live Photos (Photos)",
+      "getlatestlivephotos": "Get Latest Live Photos",
 
-      "getlastphotos": "Get Latest Photos (Photos)",
+      "getlastphotos": "Get Latest Photos",
 
-      "getlastscreenshot": "Get Latest Screenshots (Photos)",
+      "getlastscreenshot": "Get Latest Screenshots",
 
-      "getlastvideo": "Get Latest Videos (Photos)",
+      "getlastvideo": "Get Latest Videos",
 
-      "removefromalbum": "Remove from Photo Album (Photos)",
+      "removefromalbum": "Remove from Photo Album",
 
-      "savetocameraroll": "Save to Photo Album (Photos)",
+      "savetocameraroll": "Save to Photo Album",
 
-      "selectphoto": "Select Photos (Photos)"
+      "selectphoto": "Select Photos"
     },
 
     "Playback": {
-      "handoffplayback": "Hand Off Playback (Playback)",
+      "handoffplayback": "Hand Off Playback",
 
-      "pausemusic": "Play/Pause (Playback)",
+      "pausemusic": "Play/Pause",
 
-      "seek": "Seek (Playback)",
+      "seek": "Seek",
 
-      "listeningmode.set": "Set Noise Control Mode (Playback)",
+      "listeningmode.set": "Set Noise Control Mode",
 
-      "skipback": "Skip Back (Playback)",
+      "skipback": "Skip Back",
 
-      "skipforward": "Skip Forward (Playback)"
+      "skipforward": "Skip Forward"
     },
 
     "Podcasts": {
-      "properties.podcastshow": "Get Details of Podcast (Podcasts)",
+      "properties.podcastshow": "Get Details of Podcast",
 
-      "properties.podcast": "Get Details of Podcast Episode (Podcasts)",
+      "properties.podcast": "Get Details of Podcast Episode",
 
-      "getepisodesforpodcast": "Get Episodes of Podcast (Podcasts)",
+      "getepisodesforpodcast": "Get Episodes of Podcast",
 
-      "getpodcastsfromlibrary": "Get Podcasts from Library (Podcasts)",
+      "getpodcastsfromlibrary": "Get Podcasts from Library",
 
-      "playpodcast": "Play Podcast (Podcasts)",
+      "playpodcast": "Play Podcast",
 
-      "searchpodcasts": "Search Podcasts (Podcasts)",
+      "searchpodcasts": "Search Podcasts",
 
-      "podcasts.subscribe": "Subscribe to Podcast (Podcasts)"
+      "podcasts.subscribe": "Subscribe to Podcast"
     },
 
     "Siri Shortcuts": {
