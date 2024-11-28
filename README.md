@@ -614,7 +614,6 @@ This repo contains a list of action identifiers (found in plist files) and their
       "google.chrome.ios.SearchInChromeIntent": "Search in Chrome"
     },
 
-
     "IFTTT": {
       "actions.ifttt": "Trigger IFTTT Applet"
     },
