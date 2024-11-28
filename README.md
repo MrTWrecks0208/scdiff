@@ -269,393 +269,11 @@ This repo contains a list of action identifiers (found in plist files) and their
   },
 
   "Third-Party Apps": {
-  
-    "Tweetbot": {
-      "tapbots.Tweetbot6.PTHTweetbotOpenTwitterURLIntent": "Open Twitter",
 
-      "tapbots.Tweetbot6.PTHTweetbotOpenIntent": "Open Tweetbot",
-
-      "tapbots.Tweetbot6.PTHTweetbotPostTweetIntent": "Post Tweet",
-
-      "tapbots.Tweetbot.searchtext": "Search Text",
-
-      "tapbots.Tweetbot.opentweetbot": "Open Tweetbot",
-
-      "tapbots.Tweetbot.tweet": "Tweet",
-
-      "tapbots.Tweetbot.viewprofile": "View Profile"
+    "2Do": {
+      "guidedways.2Do.add": "Add 2Do Task"
     },
-
-    "Pocket": {
-      "pocket.get": "Get Items from Pocket"
-    },
-
-    "Apple Pay": {
-      "venmo.request": "Request Payment",
-
-      "venmo.pay": "Send Payment"
-    },
-
-    "Venmo": {
-      "kortina.labs.Venmo": "Send/Request Payment"
-    },
-
-    "GitHub": {
-      "github.stormbreaker.prod.DispatchWorkflowIntent": "Dispatch Workflow"
-    },
-
-    "Data Jar": {
-      "dk.simonbs.DataJar.InsertValueInArrayIntent": "Add to Data Jar",
-
-      "dk.simonbs.DataJar.CheckIfValueExistsIntent": "Check if Value Exists",
-
-      "dk.simonbs.DataJar.GetChildCountIntent": "Count Values",
-
-      "dk.simonbs.DataJar.DeleteValueIntent": "Delete Value",
-
-      "dk.simonbs.DataJar.GetKeysIntent": "Get Keys",
-
-      "dk.simonbs.DataJar.GetTypeOfValueIntent": "Get Type of Value",
-
-      "dk.simonbs.DataJar.GetValueIntent": "Get Value",
-
-      "dk.simonbs.DataJar.SetValueIntent": "Set Value",
-
-      "dk.simonbs.DataJar.ViewValueIntent": "View Value"
-    },
-
-    "Jayson": {
-      "dk.simonbs.Jayson.GetFileIntent": "Get File",
-
-      "dk.simonbs.Jayson.PrettifyJSONIntent": "Prettify JSON",
-
-      "dk.simonbs.Jayson.ViewJSONIntent": "View JSON"
-    },
-
-    "Scriptable": {
-      "dk.simonbs.Scriptable.CreateFileBookmarkIntent": "Create File Bookmark",
-
-      "dk.simonbs.Scriptable.RefreshAllWidgetsIntent": "Refresh All Widgets",
-
-      "dk.simonbs.Scriptable.RunScriptInlineIntent": "Run Inline Script",
-
-      "dk.simonbs.Scriptable.ParameterizedRunScriptIntent": "Run Script"
-    },
-
-    "Toolbox Pro": {
-      "alexhay.ToolboxProForShortcuts.AddTracksToPlaylistIntent": "Add Tracks To Playlist",
-
-      "alexhay.ToolboxProForShortcuts.AddContactGroupIntent": "Add Contact",
-
-      "alexhay.ToolboxProForShortcuts.AuthenticateIntent": "Authenticate",
-
-      "alexhay.ToolboxProForShortcuts.BlurImagesIntent": "Blur Image",
-
-      "alexhay.ToolboxProForShortcuts.BookmarkFileIntent": "Bookmark File",
-
-      "alexhay.ToolboxProForShortcuts.BuildURLIntent": "Build URL",
-
-      "alexhay.ToolboxProForShortcuts.CalculateWithSoulverIntent": "Calculate With Soulver",
-
-      "alexhay.ToolboxProForShortcuts.CheckIfInstalledIntent": "Check If App Is Installed",
-
-      "alexhay.ToolboxProForShortcuts.CheckGVIntent": "Check If Global Variable Exists",
-
-      "alexhay.ToolboxProForShortcuts.CheckForUpdatesIntent": "Check RoutineHub For Updates",
-
-      "alexhay.ToolboxProForShortcuts.ConvertCurrencyIntent": "Convert Currency",
-
-      "alexhay.ToolboxProForShortcuts.CreateCalendarIntent": "Create Calendar",
-
-      "alexhay.ToolboxProForShortcuts.CreateEventIntent": "Create Calendar Event",
-
-      "alexhay.ToolboxProForShortcuts.CreateFoldersIntent": "Create Folders",
-
-      "alexhay.ToolboxProForShortcuts.CreateIconIntent": "Create Icon",
-
-      "alexhay.ToolboxProForShortcuts.CreateTextImageIntent": "Create Image From Text",
-
-      "alexhay.ToolboxProForShortcuts.CreateInterestHeatMapsIntent": "Create Interest Heatmaps",
-
-      "alexhay.ToolboxProForShortcuts.CreateMenuIntent": "Create Menu",
-
-      "alexhay.ToolboxProForShortcuts.CreatePlaylistIntent": "Create Playlist"
-    },
-
-    "Working Copy": {
-      "appliedphasor.working-copy.CheckoutBranchIntent": "Checkout Branch",
-
-      "appliedphasor.working-copy.CloneRepositoryIntent": "Clone Repository",
-
-      "appliedphasor.working-copy.CommitRepositoryIntent": "Commit Repository",
-
-      "appliedphasor.working-copy.CreateBranchIntent": "Create Branch",
-
-      "appliedphasor.working-copy.OpenPullRequestIntent": "Create Pull Request",
-
-      "appliedphasor.working-copy.DeleteBranchIntent": "Delete Branch",
-
-      "appliedphasor.working-copy.FileDetailsIntent": "Details of Repository Files",
-
-      "appliedphasor.working-copy.FetchRepositoryIntent": "Fetch Repository",
-
-      "appliedphasor.working-copy.GetFilesIntent": "Get Repository Files",
-
-      "appliedphasor.working-copy.ListRepositoriesIntent": "List Repositories",
-
-      "appliedphasor.working-copy.MergeBranchIntent": "Merge Branch",
-
-      "appliedphasor.working-copy.OpenIntent": "Open in Working Copy",
-
-      "appliedphasor.working-copy.PullRepositoryIntent": "Pull Repository",
-
-      "appliedphasor.working-copy.PushRepositoryIntent": "Push Repository",
-
-      "appliedphasor.working-copy.CommitLogIntent": "Repository History",
-
-      "appliedphasor.working-copy.ListReferencesIntent": "Repository References",
-
-      "appliedphasor.working-copy.StageFilesIntent": "Stage for Commit",
-
-      "appliedphasor.working-copy.WebDAVIntent": "Toggle WebDAV Server",
-
-      "appliedphasor.working-copy.WriteFileIntent": "Write Repository File"
-    },
-
-    "Jellycuts": {
-      "zlineman.Jellyfish.GrabJellycutIntent": "Grab Jellycut",
-
-      "zlineman.Jellyfish.ImportObjectsIntent": "Import Objects",
-
-      "zlineman.Jellyfish.ImportShortcutIntent": "Import Shortcut"
-    },
-
-    "Otter": {
-      "aisense.otter.CommentIntent": "Comment",
-
-      "aisense.otter.HighlightIntent": "Highlight",
-
-      "aisense.otter.RecordStartParameterizedIntent": "Start Recording",
-
-      "aisense.otter.RecordStopIntent": "Stop Recording"
-    },
-
-    "ProtonMail": {
-      "ch.protonmail.WipeMainKeyIntent": "Wipe Local Data"
-    },
-
-    "GizmoPack": {
-      "ke.bou.GizmoPack.AddWalletPassIntent": "Add Wallet Pass",
-
-      "ke.bou.GizmoPack.CombineListsIntent": "Combine Lists",
-
-      "ke.bou.GizmoPack.CreateWalletPassIntent": "Create Wallet Pass",
-
-      "ke.bou.GizmoPack.FileInfoIntent": "File Info",
-
-      "ke.bou.GizmoPack.FilterDictionariesIntent": "Filter Dictionaries",
-
-      "ke.bou.GizmoPack.FuzzyFinderIntent": "Fuzzy Finder",
-
-      "ke.bou.GizmoPack.GenerateCSVIntent": "Generate CSV",
-
-      "ke.bou.GizmoPack.HashDataIntent": "Generate Hash (Extended)",
-
-      "ke.bou.GizmoPack.EncodeHexIntent": "Encode Hex",
-
-      "ke.bou.GizmoPack.EncodePlistIntent": "Encode Property List",
-
-      "ke.bou.GizmoPack.OverwriteFileIntent": "Overwrite File",
-
-      "ke.bou.GizmoPack.ParseCSVIntent": "Parse CSV",
-
-      "ke.bou.GizmoPack.ParseDateIntent": "Parse Date",
-
-      "ke.bou.GizmoPack.QueryJSONIntent": "Query JSON with JSONPath/jq",
-
-      "ke.bou.GizmoPack.QueryRecordsIntent": "Query CSV/Dictionaries with SQL",
-
-      "ke.bou.GizmoPack.RandomDataIntent": "Random Data",
-
-      "ke.bou.GizmoPack.QueryDocumentIntent": "Scrape HTML/XML with CSS/XPath",
-
-      "ke.bou.GizmoPack.ShortcutMetadataIntent": "Shortcut Metadata",
-
-      "ke.bou.GizmoPack.SignJWTIntent": "Sign JSON Web Token",
-
-      "ke.bou.GizmoPack.SnapshotMapIntent": "Snapshot Map",
-
-      "ke.bou.GizmoPack.TrimFileIntent": "Trim File",
-
-      "ke.bou.GizmoPack.UniversalVariablesIntent": "Universal Variables"
-    },
-
-    "ShortWeb": {
-      "ch.ada.ShortWeb.GetResultIntent": "Get Automation Output",
-
-      "ch.ada.ShortWeb.RunAutomationIntent": "Run Automation"
-    },
-
-    "Fantastical": {
-      "flexibits.fantastical2.addreminder": "Add Reminder",
-
-      "flexibits.fantastical2.showinfantastical": "Show in Fantastical",
-
-      "flexibits.fantastical2.addevent": "Add Event",
-
-      "flexibits.fantastical2.iphone.FKRChangeCalendarSetIntent": "Change Calendar Set",
-
-      "flexibits.fantastical2.iphone.FKRChangeCalendarViewInten": "Change View",
-
-      "flexibits.fantastical2.iphone.FKRCreateFromInputIntent": "Create From Input",
-
-      "flexibits.fantastical2.iphone.FKRGetAttendeesFromEventIntent": "Get Invitees From Event",
-
-      "flexibits.fantastical2.iphone.FKROpenOnDateIntent": "Open On Date",
-
-      "flexibits.fantastical2.iphone.FKROverdueRemindersIntent": "Overdue Reminders",
-
-      "flexibits.fantastical2.iphone.FKRShowCalendarIntent": "Show Calendar",
-
-      "flexibits.fantastical2.iphone.FKRShowListIntent": "Show List",
-
-      "flexibits.fantastical2.iphone.FKRShowScheduleIntent": "Show Schedule",
-
-      "flexibits.fantastical2.iphone.FKRUpcomingCalendarItemIntent": "Upcoming Item"
-    },
-
-    "Day One": {
-      "bloombuilt.dayone-ios.AnswerDailyPromptIntent": "Answer Daily Prompt",
-
-      "bloombuilt.dayone-ios.AppendToEntryIntent": "Append to Entry",
-
-      "dayonelog.dayoneiphone.post": "Create Day One Entry",
-
-      "bloombuilt.dayone-ios.CreateEntryIntent": "Create Entry",
-
-      "bloombuilt.dayone-ios.CreateTemplateEntryIntent": "Create Template Entry",
-
-      "bloombuilt.dayone-ios.EditEntryIntent": "Edit Entry",
-
-      "bloombuilt.dayone-ios.FindEntriesIntent": "Find Entries",
-
-      "bloombuilt.dayone-ios.GetDailyPromptIntent": "Get Daily Prompt",
-
-      "bloombuilt.dayone-ios.RecordIntent": "Record",
-
-      "bloombuilt.dayone-ios.ShowTodayIntent": "Show Day Summary",
-
-      "bloombuilt.dayone-ios.ShowEntriesIntent": "Show Entries",
-
-      "bloombuilt.dayone-ios.ShowDayIntent": "Show On This Day"
-    },
-
-    "Tally": {
-      "agiletortoise.Tally2.get": "Get Tally",
-
-      "agiletortoise.Tally2.updatetally": "Update Tally"
-    },
-
-    "Uber": {
-      "ubercab.UberClient.requestuber": "Request Uber"
-    },
-
-    "Unknown": {
-      "runscene": "Run Home Scene"
-    },
-
-    "DeskConnect": {
-      "deskconnect.send": "Send via DeskConnect"
-    },
-
-    "IFTTT": {
-      "actions.ifttt": "Trigger IFTTT Applet"
-    },
-
-    "Slack": {
-      "slack.send": "Post to Slack"
-    },
-
-    "Trello": {
-      "trello.get": "Get Trello Items",
-
-      "properties.trello": "Get Details of Trello Item",
-
-      "trello.add.list": "Create Trello List",
-
-      "trello.add.board": "Create Trello Board",
-
-      "trello.add.card": "Add Trello Card"
-    },
-
-    "Ulysses": {
-      "properties.ulysses.sheet": "Get Details of Ulysses Sheet"
-    },
-
-    "Todoist": {
-      "todoist.add": "Add Todoist Item"
-    },
-
-    "Messenger": {
-      "facebook.messenger.send": "Send via Messenger"
-    },
-
-    "Charty": {
-      "brogrammers.charty.AccumulateValuesIntent": "Accumulate Values",
-
-      "brogrammers.charty..AddAverageIntent": "Add Average",
-
-      "brogrammers.charty.AddCustomThemeIntent": "Add Custom Theme",
-
-      "brogrammers.charty.AddMovingAverageIntent": "Add Moving Average",
-
-      "brogrammers.charty.AddSeriesFromCSVIntent": "Add Series from CSV",
-
-      "brogrammers.charty.AddSeriesToChartIntent": "Add Series To Chart",
-
-      "brogrammers.charty.ApplyQuickStyleIntent": "Apply Quick Style",
-
-      "brogrammers.charty.CopyChartToClipboardIntent": "Copy Chart To Clipboard",
-
-      "brogrammers.charty.DeleteChartIntent": "Delete Chart",
-
-      "brogrammers.charty.DeleteSeriesIntent": "Delete Series",
-
-      "brogrammers.charty.ExportChartAsImageIntent": "Export Chart As Image",
-
-      "brogrammers.charty.FilterDataIntent": "Filter Data",
-
-      "brogrammers.charty.GetInfoAllChartsIntent": "Get Information From All Charts",
-
-      "brogrammers.charty.GroupDataIntent": "Group Data",
-
-      "brogrammers.charty.NewChartIntent": "New Chart",
-
-      "com.brogrammers.charty.NewChartWithSeriesIntent": "New Chart With Series",
-
-      "brogrammers.charty.StyleAxisIntent": "Style Axis",
-
-      "brogrammers.charty.StyleBarSeriesIntent": "Style Bar Series",
-
-      "brogrammers.charty.StyleChartIntent": "Style Chart",
-
-      "brogrammers.charty.StyleDonutPieSeriesIntent": "Style Donut/Pie Series",
-
-      "brogrammers.charty.StyleLineSeriesIntent": "Style Line Series",
-
-      "brogrammers.charty.StyleRingSeriesIntent": "Style Ring Series",
-
-      "brogrammers.charty.StyleScatterSeriesIntent": "Style Scatter Series",
-
-      "brogrammers.charty.UpdateWidgetsIntent": "Update Widgets"
-    },
-
-    "Neeva": {
-      "co.neeva.app.ios.browser.OpenURLIntent": "Open URL",
-
-      "co.neeva.app.ios.browser.SearchNeevaIntent": "Search Neeva"
-    },
-
+    
     "a-Shell": {
       "AsheKube.app.a-Shell.ExecuteCommandIntent": "Execute Command",
 
@@ -664,10 +282,12 @@ This repo contains a list of action identifiers (found in plist files) and their
       "AsheKube.app.a-Shell.PutFileIntent": "Put File"
     },
 
-    "2Do": {
-      "guidedways.2Do.add": "Add 2Do Task"
-    },
+    "Ai Launcher": {
+      "vitalek.IconFor.Contact.WidgetRowLauncherIntent": "Widget Launcher",
 
+      "vitalek.IconFor.Contact.WidgetLauncherIntent": "Widget Launcher"
+    },
+    
     "Airmail": {
       "airmailapp.iphone.AMSearchMailIntent": "Search Mail",
 
@@ -724,10 +344,6 @@ This repo contains a list of action identifiers (found in plist files) and their
       "shinyfrog.bear-iOS.SFTrashNoteIntent": "Trash note"
     },
 
-    "LibTerm": {
-      "ch.marcela.ada.LibTerm.RunCommandIntent": "Run Command"
-    },
-
     "Buffer": {
       "buffer.buffer.EditChannelScheduleIntent": "Add Channel Posting Times",
 
@@ -740,10 +356,6 @@ This repo contains a list of action identifiers (found in plist files) and their
       "buffer.buffer.PauseChannelIntent": "Pause Channel",
 
       "buffer.buffer.QueueCountIntent": "Queue Count"
-    },
-
-    "ChargePoint": {
-      "coulomb.ChargePoint.CPTJoinWaitlistIntent": "Join Waitlist"
     },
 
     "Castro": {
@@ -772,8 +384,109 @@ This repo contains a list of action identifiers (found in plist files) and their
       "co.supertop.Castro-2.ToggleTrimSilenceIntent": "Toggle Trim Silence"
     },
 
+    "ChargePoint": {
+      "coulomb.ChargePoint.CPTJoinWaitlistIntent": "Join Waitlist"
+    },
+    
+    "Charty": {
+      "brogrammers.charty.AccumulateValuesIntent": "Accumulate Values",
+
+      "brogrammers.charty..AddAverageIntent": "Add Average",
+
+      "brogrammers.charty.AddCustomThemeIntent": "Add Custom Theme",
+
+      "brogrammers.charty.AddMovingAverageIntent": "Add Moving Average",
+
+      "brogrammers.charty.AddSeriesFromCSVIntent": "Add Series from CSV",
+
+      "brogrammers.charty.AddSeriesToChartIntent": "Add Series To Chart",
+
+      "brogrammers.charty.ApplyQuickStyleIntent": "Apply Quick Style",
+
+      "brogrammers.charty.CopyChartToClipboardIntent": "Copy Chart To Clipboard",
+
+      "brogrammers.charty.DeleteChartIntent": "Delete Chart",
+
+      "brogrammers.charty.DeleteSeriesIntent": "Delete Series",
+
+      "brogrammers.charty.ExportChartAsImageIntent": "Export Chart As Image",
+
+      "brogrammers.charty.FilterDataIntent": "Filter Data",
+
+      "brogrammers.charty.GetInfoAllChartsIntent": "Get Information From All Charts",
+
+      "brogrammers.charty.GroupDataIntent": "Group Data",
+
+      "brogrammers.charty.NewChartIntent": "New Chart",
+
+      "com.brogrammers.charty.NewChartWithSeriesIntent": "New Chart With Series",
+
+      "brogrammers.charty.StyleAxisIntent": "Style Axis",
+
+      "brogrammers.charty.StyleBarSeriesIntent": "Style Bar Series",
+
+      "brogrammers.charty.StyleChartIntent": "Style Chart",
+
+      "brogrammers.charty.StyleDonutPieSeriesIntent": "Style Donut/Pie Series",
+
+      "brogrammers.charty.StyleLineSeriesIntent": "Style Line Series",
+
+      "brogrammers.charty.StyleRingSeriesIntent": "Style Ring Series",
+
+      "brogrammers.charty.StyleScatterSeriesIntent": "Style Scatter Series",
+
+      "brogrammers.charty.UpdateWidgetsIntent": "Update Widgets"
+    },
+
     "Daily Dictionary": {
       "anthonymayo.DailyDictionary.ShowDailyWordIntent": "Word of the Day"
+    },
+    
+    "Data Jar": {
+   
+      "dk.simonbs.DataJar.InsertValueInArrayIntent": "Add to Data Jar",
+
+      "dk.simonbs.DataJar.CheckIfValueExistsIntent": "Check if Value Exists",
+
+      "dk.simonbs.DataJar.GetChildCountIntent": "Count Values",
+
+      "dk.simonbs.DataJar.DeleteValueIntent": "Delete Value",
+
+      "dk.simonbs.DataJar.GetKeysIntent": "Get Keys",
+
+      "dk.simonbs.DataJar.GetTypeOfValueIntent": "Get Type of Value",
+
+      "dk.simonbs.DataJar.GetValueIntent": "Get Value",
+
+      "dk.simonbs.DataJar.SetValueIntent": "Set Value",
+
+      "dk.simonbs.DataJar.ViewValueIntent": "View Value"
+    },
+
+    "Day One": {
+      "bloombuilt.dayone-ios.AnswerDailyPromptIntent": "Answer Daily Prompt",
+
+      "bloombuilt.dayone-ios.AppendToEntryIntent": "Append to Entry",
+
+      "dayonelog.dayoneiphone.post": "Create Day One Entry",
+
+      "bloombuilt.dayone-ios.CreateEntryIntent": "Create Entry",
+
+      "bloombuilt.dayone-ios.CreateTemplateEntryIntent": "Create Template Entry",
+
+      "bloombuilt.dayone-ios.EditEntryIntent": "Edit Entry",
+
+      "bloombuilt.dayone-ios.FindEntriesIntent": "Find Entries",
+
+      "bloombuilt.dayone-ios.GetDailyPromptIntent": "Get Daily Prompt",
+
+      "bloombuilt.dayone-ios.RecordIntent": "Record",
+
+      "bloombuilt.dayone-ios.ShowTodayIntent": "Show Day Summary",
+
+      "bloombuilt.dayone-ios.ShowEntriesIntent": "Show Entries",
+
+      "bloombuilt.dayone-ios.ShowDayIntent": "Show On This Day"
     },
 
     "Deliveries": {
@@ -785,9 +498,240 @@ This repo contains a list of action identifiers (found in plist files) and their
 
       "junecloud.Deliveries.JUNCheckDeliveryIntent": "Check on a delivery"
     },
+    
+    "DeskConnect": {
+      "deskconnect.send": "Send via DeskConnect"
+    },
 
-    "CARROT": {
-      "grailr.CARROTweather.CurrentForecastIntent": "Get Weather Report"
+    "FallCall Lite": {
+      "fallcall.fallcall-lite.SendHelpIntent": "Assistance Needed"
+    },
+
+    "Fandango": {
+      "fandango.fandango.UpcomingOrderIntent": "See My Ticket"
+    },
+    
+    "Fantastical": {
+      "flexibits.fantastical2.addreminder": "Add Reminder",
+
+      "flexibits.fantastical2.showinfantastical": "Show in Fantastical",
+
+      "flexibits.fantastical2.addevent": "Add Event",
+
+      "flexibits.fantastical2.iphone.FKRChangeCalendarSetIntent": "Change Calendar Set",
+
+      "flexibits.fantastical2.iphone.FKRChangeCalendarViewInten": "Change View",
+
+      "flexibits.fantastical2.iphone.FKRCreateFromInputIntent": "Create From Input",
+
+      "flexibits.fantastical2.iphone.FKRGetAttendeesFromEventIntent": "Get Invitees From Event",
+
+      "flexibits.fantastical2.iphone.FKROpenOnDateIntent": "Open On Date",
+
+      "flexibits.fantastical2.iphone.FKROverdueRemindersIntent": "Overdue Reminders",
+
+      "flexibits.fantastical2.iphone.FKRShowCalendarIntent": "Show Calendar",
+
+      "flexibits.fantastical2.iphone.FKRShowListIntent": "Show List",
+
+      "flexibits.fantastical2.iphone.FKRShowScheduleIntent": "Show Schedule",
+
+      "flexibits.fantastical2.iphone.FKRUpcomingCalendarItemIntent": "Upcoming Item"
+    },
+
+    "FineReader": {
+      "abbyy.finescanner.AFSGetPDFForDocumentIntent": "Get PDF",
+
+      "abbyy.finescanner.AFSGetRecognizedDocumentIntent": "Get Recognized Document"
+    },
+
+    "Focus": {
+      "laser-focused.focus-ios.ControlSessionIntent": "Control Session",
+
+      "laser-focused.focus-ios.StartSessionIntent": "Start Timer"
+    },
+
+    "GizmoPack": {
+      "ke.bou.GizmoPack.AddWalletPassIntent": "Add Wallet Pass",
+
+      "ke.bou.GizmoPack.CombineListsIntent": "Combine Lists",
+
+      "ke.bou.GizmoPack.CreateWalletPassIntent": "Create Wallet Pass",
+
+      "ke.bou.GizmoPack.FileInfoIntent": "File Info",
+
+      "ke.bou.GizmoPack.FilterDictionariesIntent": "Filter Dictionaries",
+
+      "ke.bou.GizmoPack.FuzzyFinderIntent": "Fuzzy Finder",
+
+      "ke.bou.GizmoPack.GenerateCSVIntent": "Generate CSV",
+
+      "ke.bou.GizmoPack.HashDataIntent": "Generate Hash (Extended)",
+
+      "ke.bou.GizmoPack.EncodeHexIntent": "Encode Hex",
+
+      "ke.bou.GizmoPack.EncodePlistIntent": "Encode Property List",
+
+      "ke.bou.GizmoPack.OverwriteFileIntent": "Overwrite File",
+
+      "ke.bou.GizmoPack.ParseCSVIntent": "Parse CSV",
+
+      "ke.bou.GizmoPack.ParseDateIntent": "Parse Date",
+
+      "ke.bou.GizmoPack.QueryJSONIntent": "Query JSON with JSONPath/jq",
+
+      "ke.bou.GizmoPack.QueryRecordsIntent": "Query CSV/Dictionaries with SQL",
+
+      "ke.bou.GizmoPack.RandomDataIntent": "Random Data",
+
+      "ke.bou.GizmoPack.QueryDocumentIntent": "Scrape HTML/XML with CSS/XPath",
+
+      "ke.bou.GizmoPack.ShortcutMetadataIntent": "Shortcut Metadata",
+
+      "ke.bou.GizmoPack.SignJWTIntent": "Sign JSON Web Token",
+
+      "ke.bou.GizmoPack.SnapshotMapIntent": "Snapshot Map",
+
+      "ke.bou.GizmoPack.TrimFileIntent": "Trim File",
+
+      "ke.bou.GizmoPack.UniversalVariablesIntent": "Universal Variables"
+    },
+
+    "GitHub": {
+      "github.stormbreaker.prod.DispatchWorkflowIntent": "Dispatch Workflow"
+    },
+
+    "Google Assistant": {
+      "google.OPA.OPAAskGoogleIntent": "Ask Google"
+    },
+
+    "Google Chrome": {
+      "google.chrome.ios.OpenInChromeIntent": "Open URLs in Chrome",
+
+      "google.chrome.ios.OpenInChromeIncognitoIntent": "Open URLs in Chrome in Incognito",
+
+      "google.chrome.ios.SearchInChromeIntent": "Search in Chrome"
+    },
+
+
+    "IFTTT": {
+      "actions.ifttt": "Trigger IFTTT Applet"
+    },
+    
+    "Jayson": {
+      "dk.simonbs.Jayson.GetFileIntent": "Get File",
+
+      "dk.simonbs.Jayson.PrettifyJSONIntent": "Prettify JSON",
+
+      "dk.simonbs.Jayson.ViewJSONIntent": "View JSON"
+    },
+    
+    "Jellycuts": {
+      "zlineman.Jellyfish.GrabJellycutIntent": "Grab Jellycut",
+
+      "zlineman.Jellyfish.ImportObjectsIntent": "Import Objects",
+
+      "zlineman.Jellyfish.ImportShortcutIntent": "Import Shortcut"
+    },
+
+    "JSBox": {
+      "cyan.jsbox.RunJavaScriptIntent": "Run JavaScript",
+
+      "cyan.jsbox.RunJSBoxIntent": "Run JSBox script",
+
+      "cyan.jsbox.RunJSBoxUIIntent": "Run JSBox UI"
+    },
+
+    "LibTerm": {
+      "ch.marcela.ada.LibTerm.RunCommandIntent": "Run Command"
+    },
+
+    "LIFX": {
+      "lifx.lifx.LFXLightThemeIntent": "Apply a Theme",
+
+      "lifx.lifx.LFXCleanCycleIntent": "Clean Cycle",
+
+      "lifx.lifx.LFXGetScenesIntent": "Get Scenes",
+
+      "lifx.lifx.LFXGetLightsIntent": "List Lights",
+
+      "lifx.lifx.LFXGetThemesIntent": "List Themes",
+
+      "lifx.lifx.LFXLightSceneIntent": "Set a Scene",
+
+      "lifx.lifx.LFXLightBrightnessIntent": "Set light brightness",
+
+      "lifx.lifx.LFXLightColorIntent": "Set light color",
+
+      "lifx.lifx.LFXLightPowerIntent": "Set light power",
+
+      "lifx.lifx.LFXLightStateIntent": "Set light state"
+    },
+    
+    "Messenger": {
+      "facebook.messenger.send": "Send via Messenger"
+    },
+
+    "Neeva": {
+      "co.neeva.app.ios.browser.OpenURLIntent": "Open URL",
+
+      "co.neeva.app.ios.browser.SearchNeevaIntent": "Search Neeva"
+    },
+
+    "Night Sky X": {
+      "icandiapps.nightsky.RecognizeObjectIntent": "Recognized Object",
+
+      "icandiapps.nightsky.ShowObjectIntent": "Show Object",
+
+      "icandiapps.nightsky.StartMindfulnessIntent": "Start Night Sky Mindfulness"
+    },
+
+    "NS": {
+      "ns.reisplannerxtra.FavoriteWidgetConfigurationIntent": "Favorites widget configuration"
+    },
+
+    "OmniFocus 3": {
+      "omnigroup.OmniFocus3.iOS.AddTaskIntent": "Add Item",
+
+      "omnigroup.OmniFocus3.iOS.AddTaskPaperIntent": "Add TaskPaper",
+
+      "omnigroup.OmniFocus3.iOS.FindTasksIntent": "Find Items",
+
+      "omnigroup.OmniFocus3.iOS.FindProjectsIntent": "Find Projects",
+
+      "omnigroup.OmniFocus3.iOS.FindTagsIntent": "Find Tags",
+
+      "omnigroup.OmniFocus3.iOS.GetDatabaseObjectFromInputIntent": "Get Database Object Result from Input",
+
+      "omnigroup.OmniFocus3.iOS.RunPlugInIntent": "Omni Automation Plug-In",
+
+      "omnigroup.OmniFocus3.iOS.RunOmniJSIntent": "Omni Automation Script",
+
+      "omnigroup.OmniFocus3.iOS.ShowFromChoiceIntent": "Show in OmniFocus",
+
+      "omnigroup.OmniFocus3.iOS.TodaysForecastIntent": "Today's Forecast"
+    },
+    
+    "OTP Auth": {
+      "de.cooperrs.Authenticator.ACCopyCodeIntent": "Copy Code"
+    },
+
+    "Otter": {
+      "aisense.otter.CommentIntent": "Comment",
+
+      "aisense.otter.HighlightIntent": "Highlight",
+
+      "aisense.otter.RecordStartParameterizedIntent": "Start Recording",
+
+      "aisense.otter.RecordStopIntent": "Stop Recording"
+    },
+
+    "Pocket": {
+      "pocket.get": "Get Items from Pocket"
+    },
+
+    "ProtonMail": {
+      "ch.protonmail.WipeMainKeyIntent": "Wipe Local Data"
     },
 
     "Pushcut": {
@@ -806,6 +750,40 @@ This repo contains a list of action identifiers (found in plist files) and their
       "pushcut.Pushcut.ChangeWidgetContentIntent": "Update Widget",
 
       "pushcut.Pushcut.UploadImageIntent": "Upload Image"
+    },
+    
+    "RECaf": {
+      "joecieplinski.RECaf.LogCaffeineWithParametersIntent": "Log Caffeine"
+    },
+
+    "Scriptable": {
+      "dk.simonbs.Scriptable.CreateFileBookmarkIntent": "Create File Bookmark",
+
+      "dk.simonbs.Scriptable.RefreshAllWidgetsIntent": "Refresh All Widgets",
+
+      "dk.simonbs.Scriptable.RunScriptInlineIntent": "Run Inline Script",
+
+      "dk.simonbs.Scriptable.ParameterizedRunScriptIntent": "Run Script"
+    },
+
+    "ServiceM8": {
+      "servicem8.CallIntent": "Call Client",
+
+      "servicem8.CheckoutIntent": "Check out of current job",
+
+      "servicem8.ClockIntent": "Clock on",
+
+      "servicem8.LunchIntent": "Lunch",
+
+      "servicem8.SendMessageIntent": "Send text message",
+
+      "servicem8.AfterHoursRoleIntent": "Set on call staff member",
+
+      "servicem8.StartNextJobIntent": "Start next job",
+
+      "servicem8.TakePhotoIntent": "Take job photo",
+
+      "servicem8.ClientNameIntent": "View Client's name"
     },
 
     "Shortcutify": {
@@ -886,88 +864,14 @@ This repo contains a list of action identifiers (found in plist files) and their
       "shortcutify.Shortcutify.TodoistQuickAddTaskIntent": "Todoist: Quick Add Task"
     },
 
-    "Twitter": {
-      "tweet": "Tweet"
+    "ShortWeb": {
+      "ch.ada.ShortWeb.GetResultIntent": "Get Automation Output",
+
+      "ch.ada.ShortWeb.RunAutomationIntent": "Run Automation"
     },
 
-    "Ai Launcher": {
-      "vitalek.IconFor.Contact.WidgetRowLauncherIntent": "Widget Launcher",
-
-      "vitalek.IconFor.Contact.WidgetLauncherIntent": "Widget Launcher"
-    },
-
-    "FineReader": {
-      "abbyy.finescanner.AFSGetPDFForDocumentIntent": "Get PDF",
-
-      "abbyy.finescanner.AFSGetRecognizedDocumentIntent": "Get Recognized Document"
-    },
-
-    "Focus": {
-      "laser-focused.focus-ios.ControlSessionIntent": "Control Session",
-
-      "laser-focused.focus-ios.StartSessionIntent": "Start Timer"
-    },
-
-    "Night Sky X": {
-      "icandiapps.nightsky.RecognizeObjectIntent": "Recognized Object",
-
-      "icandiapps.nightsky.ShowObjectIntent": "Show Object",
-
-      "icandiapps.nightsky.StartMindfulnessIntent": "Start Night Sky Mindfulness"
-    },
-
-    "NS": {
-      "ns.reisplannerxtra.FavoriteWidgetConfigurationIntent": "Favorites widget configuration"
-    },
-
-    "OmniFocus 3": {
-      "omnigroup.OmniFocus3.iOS.AddTaskIntent": "Add Item",
-
-      "omnigroup.OmniFocus3.iOS.AddTaskPaperIntent": "Add TaskPaper",
-
-      "omnigroup.OmniFocus3.iOS.FindTasksIntent": "Find Items",
-
-      "omnigroup.OmniFocus3.iOS.FindProjectsIntent": "Find Projects",
-
-      "omnigroup.OmniFocus3.iOS.FindTagsIntent": "Find Tags",
-
-      "omnigroup.OmniFocus3.iOS.GetDatabaseObjectFromInputIntent": "Get Database Object Result from Input",
-
-      "omnigroup.OmniFocus3.iOS.RunPlugInIntent": "Omni Automation Plug-In",
-
-      "omnigroup.OmniFocus3.iOS.RunOmniJSIntent": "Omni Automation Script",
-
-      "omnigroup.OmniFocus3.iOS.ShowFromChoiceIntent": "Show in OmniFocus",
-
-      "omnigroup.OmniFocus3.iOS.TodaysForecastIntent": "Today's Forecast"
-    },
-
-    "OTP Auth": {
-      "de.cooperrs.Authenticator.ACCopyCodeIntent": "Copy Code"
-    },
-
-    "RECaf": {
-      "joecieplinski.RECaf.LogCaffeineWithParametersIntent": "Log Caffeine"
-    },
-
-    "ServiceM8": {
-      "servicem8.CallIntent": "Call Client",
-
-      "servicem8.CheckoutIntent": "Check out of current job",
-
-      "servicem8.ClockIntent": "Clock on",
-
-      "servicem8.LunchIntent": "Lunch",
-
-      "servicem8.SendMessageIntent": "Send text message",
-
-      "servicem8.AfterHoursRoleIntent": "Set on call staff member",
-
-      "servicem8.StartNextJobIntent": "Start next job",
-
-      "servicem8.TakePhotoIntent": "Take job photo",
-
-      "servicem8.ClientNameIntent": "View Client's name"
+    "Slack": {
+      "slack.send": "Post to Slack"
     },
 
     "SmartGym": {
@@ -986,56 +890,144 @@ This repo contains a list of action identifiers (found in plist files) and their
       "cpdigitaldarkroom.SongShift.OWTidalIntent": "Open in Tidal"
     },
 
-    "Google Assistant": {
-      "google.OPA.OPAAskGoogleIntent": "Ask Google"
+    "Tally": {
+      "agiletortoise.Tally2.get": "Get Tally",
+
+      "agiletortoise.Tally2.updatetally": "Update Tally"
     },
 
-    "Google Chrome": {
-      "google.chrome.ios.OpenInChromeIntent": "Open URLs in Chrome",
-
-      "google.chrome.ios.OpenInChromeIncognitoIntent": "Open URLs in Chrome in Incognito",
-
-      "google.chrome.ios.SearchInChromeIntent": "Search in Chrome"
+    "Todoist": {
+      "todoist.add": "Add Todoist Item"
     },
 
-    "FallCall Lite": {
-      "fallcall.fallcall-lite.SendHelpIntent": "Assistance Needed"
+    "Toolbox Pro": {
+      "alexhay.ToolboxProForShortcuts.AddTracksToPlaylistIntent": "Add Tracks To Playlist",
+
+      "alexhay.ToolboxProForShortcuts.AddContactGroupIntent": "Add Contact",
+
+      "alexhay.ToolboxProForShortcuts.AuthenticateIntent": "Authenticate",
+
+      "alexhay.ToolboxProForShortcuts.BlurImagesIntent": "Blur Image",
+
+      "alexhay.ToolboxProForShortcuts.BookmarkFileIntent": "Bookmark File",
+
+      "alexhay.ToolboxProForShortcuts.BuildURLIntent": "Build URL",
+
+      "alexhay.ToolboxProForShortcuts.CalculateWithSoulverIntent": "Calculate With Soulver",
+
+      "alexhay.ToolboxProForShortcuts.CheckIfInstalledIntent": "Check If App Is Installed",
+
+      "alexhay.ToolboxProForShortcuts.CheckGVIntent": "Check If Global Variable Exists",
+
+      "alexhay.ToolboxProForShortcuts.CheckForUpdatesIntent": "Check RoutineHub For Updates",
+
+      "alexhay.ToolboxProForShortcuts.ConvertCurrencyIntent": "Convert Currency",
+
+      "alexhay.ToolboxProForShortcuts.CreateCalendarIntent": "Create Calendar",
+
+      "alexhay.ToolboxProForShortcuts.CreateEventIntent": "Create Calendar Event",
+
+      "alexhay.ToolboxProForShortcuts.CreateFoldersIntent": "Create Folders",
+
+      "alexhay.ToolboxProForShortcuts.CreateIconIntent": "Create Icon",
+
+      "alexhay.ToolboxProForShortcuts.CreateTextImageIntent": "Create Image From Text",
+
+      "alexhay.ToolboxProForShortcuts.CreateInterestHeatMapsIntent": "Create Interest Heatmaps",
+
+      "alexhay.ToolboxProForShortcuts.CreateMenuIntent": "Create Menu",
+
+      "alexhay.ToolboxProForShortcuts.CreatePlaylistIntent": "Create Playlist"
     },
 
-    "Fandango": {
-      "fandango.fandango.UpcomingOrderIntent": "See My Ticket"
+    "Trello": {
+      "trello.get": "Get Trello Items",
+
+      "properties.trello": "Get Details of Trello Item",
+
+      "trello.add.list": "Create Trello List",
+
+      "trello.add.board": "Create Trello Board",
+
+      "trello.add.card": "Add Trello Card"
+    },
+    
+    "Tweetbot": {
+      "tapbots.Tweetbot6.PTHTweetbotOpenTwitterURLIntent": "Open Twitter",
+
+      "tapbots.Tweetbot6.PTHTweetbotOpenIntent": "Open Tweetbot",
+
+      "tapbots.Tweetbot6.PTHTweetbotPostTweetIntent": "Post Tweet",
+
+      "tapbots.Tweetbot.searchtext": "Search Text",
+
+      "tapbots.Tweetbot.opentweetbot": "Open Tweetbot",
+
+      "tapbots.Tweetbot.tweet": "Tweet",
+
+      "tapbots.Tweetbot.viewprofile": "View Profile"
     },
 
-    "JSBox": {
-      "cyan.jsbox.RunJavaScriptIntent": "Run JavaScript",
-
-      "cyan.jsbox.RunJSBoxIntent": "Run JSBox script",
-
-      "cyan.jsbox.RunJSBoxUIIntent": "Run JSBox UI"
+    "Twitter": {
+      "tweet": "Tweet"
     },
 
-    "LIFX": {
-      "lifx.lifx.LFXLightThemeIntent": "Apply a Theme",
-
-      "lifx.lifx.LFXCleanCycleIntent": "Clean Cycle",
-
-      "lifx.lifx.LFXGetScenesIntent": "Get Scenes",
-
-      "lifx.lifx.LFXGetLightsIntent": "List Lights",
-
-      "lifx.lifx.LFXGetThemesIntent": "List Themes",
-
-      "lifx.lifx.LFXLightSceneIntent": "Set a Scene",
-
-      "lifx.lifx.LFXLightBrightnessIntent": "Set light brightness",
-
-      "lifx.lifx.LFXLightColorIntent": "Set light color",
-
-      "lifx.lifx.LFXLightPowerIntent": "Set light power",
-
-      "lifx.lifx.LFXLightStateIntent": "Set light state"
+    "Uber": {
+      "ubercab.UberClient.requestuber": "Request Uber"
     },
 
+    "Ulysses": {
+      "properties.ulysses.sheet": "Get Details of Ulysses Sheet"
+    },
+
+    "Unknown": {
+      "runscene": "Run Home Scene"
+    },
+
+    "Venmo": {
+      "kortina.labs.Venmo": "Send/Request Payment"
+    },
+
+    "Working Copy": {
+      "appliedphasor.working-copy.CheckoutBranchIntent": "Checkout Branch",
+
+      "appliedphasor.working-copy.CloneRepositoryIntent": "Clone Repository",
+
+      "appliedphasor.working-copy.CommitRepositoryIntent": "Commit Repository",
+
+      "appliedphasor.working-copy.CreateBranchIntent": "Create Branch",
+
+      "appliedphasor.working-copy.OpenPullRequestIntent": "Create Pull Request",
+
+      "appliedphasor.working-copy.DeleteBranchIntent": "Delete Branch",
+
+      "appliedphasor.working-copy.FileDetailsIntent": "Details of Repository Files",
+
+      "appliedphasor.working-copy.FetchRepositoryIntent": "Fetch Repository",
+
+      "appliedphasor.working-copy.GetFilesIntent": "Get Repository Files",
+
+      "appliedphasor.working-copy.ListRepositoriesIntent": "List Repositories",
+
+      "appliedphasor.working-copy.MergeBranchIntent": "Merge Branch",
+
+      "appliedphasor.working-copy.OpenIntent": "Open in Working Copy",
+
+      "appliedphasor.working-copy.PullRepositoryIntent": "Pull Repository",
+
+      "appliedphasor.working-copy.PushRepositoryIntent": "Push Repository",
+
+      "appliedphasor.working-copy.CommitLogIntent": "Repository History",
+
+      "appliedphasor.working-copy.ListReferencesIntent": "Repository References",
+
+      "appliedphasor.working-copy.StageFilesIntent": "Stage for Commit",
+
+      "appliedphasor.working-copy.WebDAVIntent": "Toggle WebDAV Server",
+
+      "appliedphasor.working-copy.WriteFileIntent": "Write Repository File"
+    },   
+    
     "Zoho Invoice": {
       "zoho.zinvoice.CreateExpenseIntent": "Create Expense",
 
