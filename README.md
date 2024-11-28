@@ -335,7 +335,7 @@ This repo contains a list of action identifiers (found in plist files) and their
     "Scriptable": {
       "dk.simonbs.Scriptable.CreateFileBookmarkIntent": "Create File Bookmark",
 
-      "dk.simonbs.Scriptable.RefreshAllWidgetsIntent": "Refresh All Widget",
+      "dk.simonbs.Scriptable.RefreshAllWidgetsIntent": "Refresh All Widgets",
 
       "dk.simonbs.Scriptable.RunScriptInlineIntent": "Run Inline Script",
 
